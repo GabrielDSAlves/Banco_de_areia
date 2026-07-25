@@ -1,0 +1,27 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Conda
+.env
+.venv
+
+# VS Code
+.vscode/
+
+# Dados grandes
+data/raw/images/
+data/raw/images/**
+*.zip
+
+# Modelos treinados
+*.pth
+*.pt
+*.ckpt
+
+# Resultados grandes
+outputs/
+logs/
