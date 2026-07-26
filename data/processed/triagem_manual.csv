@@ -1,0 +1,2397 @@
+id,possui_banco,qualidade,usar_dataset,observacao
+1725,False,boa,True,sem banco
+1726,False,boa,True,sem banco
+1727,False,boa,True,sem banco
+1728,False,boa,True,sem banco
+1729,False,boa,True,sem banco
+1730,False,ruim,False,nuvem ou imagem inadequada
+1731,False,ruim,False,nuvem ou imagem inadequada
+1732,False,boa,True,sem banco
+1733,False,boa,True,sem banco
+1734,False,boa,True,sem banco
+1735,False,ruim,False,nuvem ou imagem inadequada
+1736,False,ruim,False,nuvem ou imagem inadequada
+1737,True,boa,True,banco evidente
+1739,True,boa,True,banco evidente
+2171,False,boa,True,sem banco
+2172,False,boa,True,sem banco
+2173,False,boa,True,sem banco
+2175,False,boa,True,sem banco
+2176,True,boa,True,banco evidente
+2179,False,boa,True,sem banco
+2180,False,boa,True,sem banco
+2181,False,boa,True,sem banco
+2182,False,boa,True,sem banco
+2183,False,ruim,False,nuvem ou imagem inadequada
+2184,False,ruim,False,nuvem ou imagem inadequada
+2185,False,ruim,False,nuvem ou imagem inadequada
+2186,False,boa,True,sem banco
+2616,False,boa,True,sem banco
+2617,False,boa,True,sem banco
+2628,False,boa,True,sem banco
+2629,False,boa,True,sem banco
+2630,False,boa,True,sem banco
+2631,False,boa,True,sem banco
+2632,False,boa,True,sem banco
+2633,False,boa,True,sem banco
+2634,False,boa,True,sem banco
+3060,False,boa,True,sem banco
+3061,False,boa,True,sem banco
+3077,False,boa,True,sem banco
+3078,False,boa,True,sem banco
+3079,False,boa,True,sem banco
+3080,False,ruim,False,nuvem ou imagem inadequada
+3081,False,boa,True,sem banco
+3082,False,boa,True,sem banco
+3083,False,boa,True,sem banco
+3084,False,boa,True,sem banco
+3502,False,boa,True,sem banco
+3503,False,boa,True,sem banco
+3504,False,boa,True,sem banco
+3505,False,ruim,False,nuvem ou imagem inadequada
+3506,False,ruim,False,nuvem ou imagem inadequada
+3507,False,boa,True,sem banco
+3525,False,boa,True,sem banco
+3526,False,ruim,False,nuvem ou imagem inadequada
+3527,False,ruim,False,nuvem ou imagem inadequada
+3528,False,ruim,False,nuvem ou imagem inadequada
+3529,False,ruim,False,nuvem ou imagem inadequada
+3530,False,revisar,False,parece nuvem
+3948,False,ruim,False,nuvem ou imagem inadequada
+3949,False,boa,True,sem banco
+3950,False,ruim,False,nuvem ou imagem inadequada
+3951,False,ruim,False,barco
+3975,False,boa,True,sem banco
+3976,False,ruim,False,nuvem ou imagem inadequada
+3977,True,boa,True,banco evidente
+4394,False,ruim,False,nuvem ou imagem inadequada
+4395,False,ruim,False,nuvem ou imagem inadequada
+4396,False,boa,True,sem banco
+4422,False,boa,True,sem banco
+4423,False,ruim,False,nuvem ou imagem inadequada
+4424,False,ruim,False,nuvem ou imagem inadequada
+4839,False,boa,True,sem banco
+4840,False,boa,True,sem banco
+4841,False,boa,True,sem banco
+4870,False,boa,True,sem banco
+4871,False,boa,True,sem banco
+5285,False,ruim,False,nuvem ou imagem inadequada
+5286,False,ruim,False,nuvem ou imagem inadequada
+5287,False,boa,True,sem banco
+5317,False,boa,True,sem banco
+5318,True,boa,True,banco evidente
+5319,False,boa,True,sem banco
+5730,False,boa,True,sem banco
+5731,False,ruim,False,nuvem ou imagem inadequada
+5732,False,ruim,False,nuvem ou imagem inadequada
+5733,False,boa,True,sem banco
+5764,False,boa,True,sem banco
+5765,False,ruim,False,nuvem ou imagem inadequada
+6175,False,ruim,False,nuvem ou imagem inadequada
+6176,False,ruim,False,nuvem ou imagem inadequada
+6177,False,ruim,False,nuvem ou imagem inadequada
+6211,False,boa,True,sem banco
+6621,False,boa,True,sem banco
+6622,True,boa,True,banco evidente
+6623,False,boa,True,sem banco
+6657,False,boa,True,sem banco
+7066,False,boa,True,sem banco
+7067,False,ruim,False,nuvem ou imagem inadequada
+7068,False,ruim,False,nuvem ou imagem inadequada
+7103,False,boa,True,sem banco
+7104,True,boa,True,banco evidente
+7509,False,ruim,False,nuvem ou imagem inadequada
+7510,False,ruim,False,nuvem ou imagem inadequada
+7511,False,ruim,False,nuvem ou imagem inadequada
+7512,False,boa,True,sem banco
+7513,False,ruim,False,nuvem ou imagem inadequada
+7550,False,ruim,False,nuvem ou imagem inadequada
+7551,False,boa,True,sem banco
+7954,False,boa,True,sem banco
+7955,False,boa,True,sem banco
+7997,False,boa,True,sem banco
+7998,False,ruim,False,nuvem ou imagem inadequada
+7999,False,boa,True,sem banco
+8400,True,boa,True,banco evidente
+8401,True,boa,True,banco evidente
+8444,False,boa,True,sem banco
+8445,False,ruim,False,nuvem ou imagem inadequada
+8846,False,ruim,False,nuvem ou imagem inadequada
+8891,False,boa,True,sem banco
+8892,False,boa,True,sem banco
+8893,False,boa,True,sem banco
+9291,False,boa,True,sem banco
+9341,False,boa,True,sem banco
+9342,False,ruim,False,nuvem ou imagem inadequada
+9736,False,boa,True,sem banco
+9788,False,ruim,False,nuvem ou imagem inadequada
+10181,True,boa,True,banco evidente
+10182,True,boa,True,banco evidente
+10234,False,boa,True,sem banco
+10235,True,boa,True,banco evidente
+10626,True,boa,True,banco evidente
+10681,False,boa,True,sem banco
+11071,False,ruim,False,nuvem ou imagem inadequada
+11072,False,boa,True,sem banco
+11127,False,boa,True,sem banco
+11128,False,boa,True,sem banco
+11516,False,ruim,False,nuvem ou imagem inadequada
+11517,False,boa,True,sem banco
+11574,False,ruim,False,nuvem ou imagem inadequada
+11575,False,boa,True,sem banco
+11962,False,ruim,False,nuvem ou imagem inadequada
+12022,False,ruim,False,nuvem ou imagem inadequada
+12407,True,boa,True,banco evidente
+12408,True,boa,True,banco evidente
+12469,False,ruim,False,nuvem ou imagem inadequada
+12470,True,boa,True,banco evidente
+12471,False,ruim,False,nuvem ou imagem inadequada
+12853,False,boa,True,sem banco
+12854,False,boa,True,sem banco
+12917,False,boa,True,sem banco
+12918,False,boa,True,sem banco
+13299,True,boa,True,banco evidente
+13300,False,ruim,False,nuvem ou imagem inadequada
+13363,False,ruim,False,nuvem ou imagem inadequada
+13364,False,ruim,False,nuvem ou imagem inadequada
+13365,False,ruim,False,nuvem ou imagem inadequada
+13366,False,ruim,False,nuvem ou imagem inadequada
+13745,False,boa,True,sem banco
+13746,False,ruim,False,nuvem ou imagem inadequada
+13811,False,ruim,False,nuvem ou imagem inadequada
+13812,False,boa,True,sem banco
+13813,False,ruim,False,nuvem ou imagem inadequada
+13814,False,boa,True,sem banco
+13815,False,boa,True,sem banco
+13816,False,boa,True,sem banco
+13818,False,boa,True,sem banco
+13819,False,ruim,False,nuvem ou imagem inadequada
+13820,False,boa,True,sem banco
+13821,False,boa,True,sem banco
+13822,False,ruim,False,nuvem ou imagem inadequada
+13823,False,boa,True,sem banco
+14191,False,ruim,False,nuvem ou imagem inadequada
+14262,False,boa,True,sem banco
+14269,False,boa,True,sem banco
+14270,False,boa,True,sem banco
+14637,False,boa,True,sem banco
+14705,False,boa,True,sem banco
+14716,False,boa,True,sem banco
+15083,False,boa,True,sem banco
+15160,False,ruim,False,nuvem ou imagem inadequada
+15163,False,boa,True,sem banco
+15529,False,ruim,False,nuvem ou imagem inadequada
+15975,False,ruim,False,nuvem ou imagem inadequada
+15978,False,boa,True,sem banco
+16421,False,ruim,False,nuvem ou imagem inadequada
+16422,False,boa,True,sem banco
+16868,False,boa,True,sem banco
+17313,False,ruim,False,nuvem ou imagem inadequada
+17315,False,ruim,False,nuvem ou imagem inadequada
+17759,False,ruim,False,nuvem ou imagem inadequada
+17761,False,boa,True,sem banco
+18204,False,boa,True,sem banco
+18650,False,boa,True,sem banco
+18652,False,boa,True,sem banco
+19096,False,boa,True,sem banco
+19097,False,boa,True,sem banco
+19542,False,ruim,False,nuvem ou imagem inadequada
+19543,False,ruim,False,nuvem ou imagem inadequada
+19987,False,ruim,False,nuvem ou imagem inadequada
+19988,False,ruim,False,nuvem ou imagem inadequada
+20432,False,boa,True,sem banco
+20433,False,ruim,False,nuvem ou imagem inadequada
+20878,False,ruim,False,nuvem ou imagem inadequada
+20879,False,ruim,False,nuvem ou imagem inadequada
+21323,False,ruim,False,nuvem ou imagem inadequada
+21324,False,boa,True,sem banco
+21768,False,ruim,False,nuvem ou imagem inadequada
+21769,False,ruim,False,nuvem ou imagem inadequada
+22213,False,ruim,False,nuvem ou imagem inadequada
+22214,False,ruim,False,nuvem ou imagem inadequada
+22215,False,ruim,False,nuvem ou imagem inadequada
+22659,False,ruim,False,nuvem ou imagem inadequada
+22660,False,boa,True,sem banco
+23104,False,ruim,False,nuvem ou imagem inadequada
+23105,False,ruim,False,nuvem ou imagem inadequada
+23550,False,boa,True,sem banco
+23551,False,ruim,False,nuvem ou imagem inadequada
+23995,False,boa,True,sem banco
+23996,False,ruim,False,nuvem ou imagem inadequada
+23997,False,ruim,False,nuvem ou imagem inadequada
+24441,False,ruim,False,nuvem ou imagem inadequada
+24442,False,ruim,False,nuvem ou imagem inadequada
+24886,False,boa,True,sem banco
+24887,False,ruim,False,nuvem ou imagem inadequada
+25332,False,boa,True,sem banco
+25333,False,ruim,False,nuvem ou imagem inadequada
+25778,False,ruim,False,nuvem ou imagem inadequada
+26223,False,ruim,False,nuvem ou imagem inadequada
+26224,False,boa,True,sem banco
+26669,False,boa,True,sem banco
+26670,False,boa,True,sem banco
+27115,False,ruim,False,nuvem ou imagem inadequada
+27116,False,ruim,False,nuvem ou imagem inadequada
+27561,False,ruim,False,nuvem ou imagem inadequada
+27562,False,ruim,False,nuvem ou imagem inadequada
+28008,False,ruim,False,nuvem ou imagem inadequada
+28009,False,ruim,False,nuvem ou imagem inadequada
+28454,False,boa,True,sem banco
+28455,False,ruim,False,nuvem ou imagem inadequada
+28899,False,ruim,False,nuvem ou imagem inadequada
+28900,False,ruim,False,nuvem ou imagem inadequada
+29344,False,ruim,False,nuvem ou imagem inadequada
+29345,False,ruim,False,nuvem ou imagem inadequada
+29788,False,boa,True,sem banco
+29789,False,boa,True,sem banco
+29790,False,boa,True,sem banco
+30231,False,boa,True,sem banco
+30232,False,boa,True,sem banco
+30233,False,boa,True,sem banco
+30234,False,boa,True,sem banco
+30676,False,boa,True,sem banco
+30677,False,ruim,False,nuvem ou imagem inadequada
+30678,False,ruim,False,nuvem ou imagem inadequada
+30679,False,boa,True,sem banco
+31120,False,ruim,False,nuvem ou imagem inadequada
+31121,False,ruim,False,nuvem ou imagem inadequada
+31122,False,boa,True,sem banco
+31124,False,boa,True,sem banco
+31565,False,boa,True,sem banco
+31566,False,ruim,False,nuvem ou imagem inadequada
+31567,False,boa,True,sem banco
+31568,False,boa,True,sem banco
+32010,False,boa,True,sem banco
+32011,False,ruim,False,nuvem ou imagem inadequada
+32012,False,ruim,False,nuvem ou imagem inadequada
+32013,False,boa,True,sem banco
+32453,False,ruim,False,nuvem ou imagem inadequada
+32454,False,ruim,False,nuvem ou imagem inadequada
+32455,False,ruim,False,nuvem ou imagem inadequada
+32456,False,ruim,False,nuvem ou imagem inadequada
+32457,False,ruim,False,nuvem ou imagem inadequada
+32884,False,ruim,False,nuvem ou imagem inadequada
+32898,False,boa,True,sem banco
+32899,False,ruim,False,nuvem ou imagem inadequada
+32900,False,boa,True,sem banco
+32901,False,boa,True,sem banco
+32902,False,boa,True,sem banco
+33328,False,ruim,False,nuvem ou imagem inadequada
+33329,False,ruim,False,nuvem ou imagem inadequada
+33330,False,ruim,False,nuvem ou imagem inadequada
+33331,False,ruim,False,nuvem ou imagem inadequada
+33332,False,ruim,False,nuvem ou imagem inadequada
+33333,False,ruim,False,nuvem ou imagem inadequada
+33343,False,ruim,False,nuvem ou imagem inadequada
+33344,False,ruim,False,nuvem ou imagem inadequada
+33345,False,boa,True,sem banco
+33773,False,ruim,False,nuvem ou imagem inadequada
+33774,False,ruim,False,nuvem ou imagem inadequada
+33775,False,ruim,False,nuvem ou imagem inadequada
+33776,False,ruim,False,nuvem ou imagem inadequada
+33777,False,ruim,False,nuvem ou imagem inadequada
+33778,False,boa,True,sem banco
+33779,False,ruim,False,nuvem ou imagem inadequada
+33780,False,ruim,False,nuvem ou imagem inadequada
+33781,False,boa,True,sem banco
+33785,False,ruim,False,nuvem ou imagem inadequada
+33786,False,ruim,False,nuvem ou imagem inadequada
+33787,False,boa,True,sem banco
+33788,False,ruim,False,nuvem ou imagem inadequada
+33789,False,ruim,False,nuvem ou imagem inadequada
+33790,False,ruim,False,nuvem ou imagem inadequada
+34218,False,boa,True,sem banco
+34219,False,ruim,False,nuvem ou imagem inadequada
+34220,False,ruim,False,nuvem ou imagem inadequada
+34227,False,boa,True,sem banco
+34228,False,boa,True,sem banco
+34229,False,ruim,False,nuvem ou imagem inadequada
+34230,False,ruim,False,nuvem ou imagem inadequada
+34231,False,ruim,False,nuvem ou imagem inadequada
+34232,False,boa,True,sem banco
+34235,False,boa,True,sem banco
+34664,False,ruim,False,nuvem ou imagem inadequada
+34665,False,ruim,False,nuvem ou imagem inadequada
+34666,False,boa,True,sem banco
+34675,False,boa,True,sem banco
+34676,False,boa,True,sem banco
+34677,False,boa,True,sem banco
+34680,False,boa,True,sem banco
+35110,False,ruim,False,nuvem ou imagem inadequada
+35111,False,ruim,False,nuvem ou imagem inadequada
+35123,False,boa,True,sem banco
+35124,False,boa,True,sem banco
+35125,False,boa,True,sem banco
+35556,False,ruim,False,nuvem ou imagem inadequada
+35557,False,boa,True,sem banco
+36001,False,ruim,False,nuvem ou imagem inadequada
+36002,False,boa,True,sem banco
+36446,False,boa,True,sem banco
+36447,False,ruim,False,nuvem ou imagem inadequada
+36891,False,ruim,False,nuvem ou imagem inadequada
+36892,False,ruim,False,nuvem ou imagem inadequada
+36893,False,boa,True,sem banco
+37336,False,ruim,False,nuvem ou imagem inadequada
+37337,False,boa,True,sem banco
+37338,False,ruim,False,nuvem ou imagem inadequada
+37781,False,ruim,False,nuvem ou imagem inadequada
+37782,False,ruim,False,nuvem ou imagem inadequada
+37783,False,ruim,False,nuvem ou imagem inadequada
+38226,True,boa,True,banco evidente
+38227,False,ruim,False,nuvem ou imagem inadequada
+38228,False,boa,True,sem banco
+38671,False,ruim,False,nuvem ou imagem inadequada
+38672,False,ruim,False,nuvem ou imagem inadequada
+38673,False,boa,True,sem banco
+39116,False,boa,True,sem banco
+39117,False,boa,True,sem banco
+39118,False,ruim,False,nuvem ou imagem inadequada
+39560,False,ruim,False,nuvem ou imagem inadequada
+39561,False,ruim,False,nuvem ou imagem inadequada
+39562,False,ruim,False,nuvem ou imagem inadequada
+39563,False,ruim,False,nuvem ou imagem inadequada
+40005,True,boa,True,banco evidente
+40006,False,ruim,False,nuvem ou imagem inadequada
+40007,False,ruim,False,nuvem ou imagem inadequada
+40008,False,ruim,False,nuvem ou imagem inadequada
+40450,False,boa,True,sem banco
+40451,False,ruim,False,nuvem ou imagem inadequada
+40452,False,ruim,False,nuvem ou imagem inadequada
+40453,False,ruim,False,nuvem ou imagem inadequada
+40895,False,boa,True,sem banco
+40896,False,ruim,False,nuvem ou imagem inadequada
+40897,False,boa,True,sem banco
+40898,False,boa,True,sem banco
+41341,False,ruim,False,nuvem ou imagem inadequada
+41342,True,boa,True,banco evidente
+41343,False,ruim,False,nuvem ou imagem inadequada
+41786,False,boa,True,sem banco
+41787,False,ruim,False,nuvem ou imagem inadequada
+42232,False,boa,True,sem banco
+42233,False,ruim,False,nuvem ou imagem inadequada
+42678,False,boa,True,sem banco
+43124,False,boa,True,sem banco
+43125,False,boa,True,sem banco
+43570,False,boa,True,sem banco
+43571,False,ruim,False,nuvem ou imagem inadequada
+44015,False,boa,True,sem banco
+44016,False,ruim,False,nuvem ou imagem inadequada
+44017,False,ruim,False,nuvem ou imagem inadequada
+44461,False,ruim,False,nuvem ou imagem inadequada
+44462,False,ruim,False,nuvem ou imagem inadequada
+44463,False,ruim,False,nuvem ou imagem inadequada
+44906,False,boa,True,sem banco
+44907,False,ruim,False,nuvem ou imagem inadequada
+45352,False,ruim,False,nuvem ou imagem inadequada
+45354,False,boa,True,sem banco
+45795,False,boa,True,sem banco
+45796,False,boa,True,sem banco
+45797,False,boa,True,sem banco
+45798,False,boa,True,sem banco
+46240,False,ruim,False,nuvem ou imagem inadequada
+46241,False,ruim,False,nuvem ou imagem inadequada
+46242,False,ruim,False,nuvem ou imagem inadequada
+46243,False,boa,True,sem banco
+46685,False,ruim,False,nuvem ou imagem inadequada
+46686,False,ruim,False,nuvem ou imagem inadequada
+46687,False,ruim,False,nuvem ou imagem inadequada
+47130,False,boa,True,sem banco
+47131,False,ruim,False,nuvem ou imagem inadequada
+47574,False,ruim,False,nuvem ou imagem inadequada
+47575,False,ruim,False,nuvem ou imagem inadequada
+47576,False,ruim,False,nuvem ou imagem inadequada
+48019,False,boa,True,sem banco
+48020,False,ruim,False,nuvem ou imagem inadequada
+48021,False,ruim,False,nuvem ou imagem inadequada
+48465,False,ruim,False,nuvem ou imagem inadequada
+48466,False,ruim,False,nuvem ou imagem inadequada
+48911,False,ruim,False,nuvem ou imagem inadequada
+48912,False,ruim,False,nuvem ou imagem inadequada
+49357,False,ruim,False,nuvem ou imagem inadequada
+49799,False,boa,True,sem banco
+49800,False,ruim,False,nuvem ou imagem inadequada
+49801,True,boa,True,banco evidente
+49802,False,ruim,False,nuvem ou imagem inadequada
+49803,False,boa,True,sem banco
+50244,True,boa,True,banco evidente
+50245,False,ruim,False,nuvem ou imagem inadequada
+50246,False,ruim,False,nuvem ou imagem inadequada
+50247,False,ruim,False,nuvem ou imagem inadequada
+50248,False,ruim,False,nuvem ou imagem inadequada
+50689,False,ruim,False,nuvem ou imagem inadequada
+50690,False,ruim,False,nuvem ou imagem inadequada
+51135,False,ruim,False,nuvem ou imagem inadequada
+51136,False,ruim,False,nuvem ou imagem inadequada
+51580,False,ruim,False,nuvem ou imagem inadequada
+51581,False,ruim,False,nuvem ou imagem inadequada
+51582,False,ruim,False,nuvem ou imagem inadequada
+52025,False,ruim,False,nuvem ou imagem inadequada
+52026,False,ruim,False,nuvem ou imagem inadequada
+52027,False,ruim,False,nuvem ou imagem inadequada
+52471,False,ruim,False,nuvem ou imagem inadequada
+52472,False,ruim,False,nuvem ou imagem inadequada
+52473,False,ruim,False,nuvem ou imagem inadequada
+52917,False,ruim,False,nuvem ou imagem inadequada
+52918,False,ruim,False,nuvem ou imagem inadequada
+53363,False,ruim,False,nuvem ou imagem inadequada
+53364,False,ruim,False,nuvem ou imagem inadequada
+53809,False,ruim,False,nuvem ou imagem inadequada
+53810,False,ruim,False,nuvem ou imagem inadequada
+54254,False,boa,True,sem banco
+54255,False,ruim,False,nuvem ou imagem inadequada
+54256,False,ruim,False,nuvem ou imagem inadequada
+54699,False,ruim,False,nuvem ou imagem inadequada
+54700,False,ruim,False,nuvem ou imagem inadequada
+54701,False,ruim,False,nuvem ou imagem inadequada
+54702,False,ruim,False,nuvem ou imagem inadequada
+55144,False,ruim,False,nuvem ou imagem inadequada
+55145,False,ruim,False,nuvem ou imagem inadequada
+55146,False,ruim,False,nuvem ou imagem inadequada
+55147,False,ruim,False,nuvem ou imagem inadequada
+55586,False,ruim,False,nuvem ou imagem inadequada
+55587,False,ruim,False,nuvem ou imagem inadequada
+55588,False,ruim,False,nuvem ou imagem inadequada
+55589,False,ruim,False,nuvem ou imagem inadequada
+55590,False,ruim,False,nuvem ou imagem inadequada
+55591,False,ruim,False,nuvem ou imagem inadequada
+55592,False,boa,True,sem banco
+56030,False,ruim,False,nuvem ou imagem inadequada
+56031,False,ruim,False,nuvem ou imagem inadequada
+56032,False,ruim,False,nuvem ou imagem inadequada
+56033,False,ruim,False,nuvem ou imagem inadequada
+56034,False,ruim,False,nuvem ou imagem inadequada
+56035,False,ruim,False,nuvem ou imagem inadequada
+56036,False,ruim,False,nuvem ou imagem inadequada
+56038,False,boa,True,sem banco
+56475,True,boa,True,banco evidente
+56476,False,ruim,False,nuvem ou imagem inadequada
+56477,False,ruim,False,nuvem ou imagem inadequada
+56478,False,ruim,False,nuvem ou imagem inadequada
+56479,False,ruim,False,nuvem ou imagem inadequada
+56480,False,ruim,False,nuvem ou imagem inadequada
+56481,False,boa,True,sem banco
+56921,False,ruim,False,nuvem ou imagem inadequada
+56922,False,ruim,False,nuvem ou imagem inadequada
+56923,False,ruim,False,nuvem ou imagem inadequada
+56924,False,ruim,False,nuvem ou imagem inadequada
+56925,False,ruim,False,nuvem ou imagem inadequada
+56926,False,boa,True,sem banco
+56927,False,boa,True,sem banco
+57366,False,boa,True,sem banco
+57367,False,ruim,False,nuvem ou imagem inadequada
+57368,False,ruim,False,nuvem ou imagem inadequada
+57369,True,boa,True,banco evidente
+57803,False,ruim,False,nuvem ou imagem inadequada
+57804,False,ruim,False,nuvem ou imagem inadequada
+57805,False,boa,True,sem banco
+57806,False,boa,True,sem banco
+57810,False,boa,True,sem banco
+57811,False,ruim,False,nuvem ou imagem inadequada
+57812,False,ruim,False,nuvem ou imagem inadequada
+57813,False,ruim,False,nuvem ou imagem inadequada
+58247,False,boa,True,sem banco
+58248,False,ruim,False,nuvem ou imagem inadequada
+58249,False,ruim,False,nuvem ou imagem inadequada
+58250,False,boa,True,sem banco
+58252,False,boa,True,sem banco
+58253,False,ruim,False,nuvem ou imagem inadequada
+58254,False,ruim,False,nuvem ou imagem inadequada
+58255,False,ruim,False,nuvem ou imagem inadequada
+58256,False,ruim,False,nuvem ou imagem inadequada
+58257,False,ruim,False,nuvem ou imagem inadequada
+58258,False,ruim,False,nuvem ou imagem inadequada
+58259,False,ruim,False,nuvem ou imagem inadequada
+58691,False,boa,True,sem banco
+58692,False,ruim,False,nuvem ou imagem inadequada
+58693,False,ruim,False,nuvem ou imagem inadequada
+58694,False,ruim,False,nuvem ou imagem inadequada
+58695,False,ruim,False,nuvem ou imagem inadequada
+58696,False,boa,True,sem banco
+58697,False,boa,True,sem banco
+58702,False,boa,True,sem banco
+58703,False,ruim,False,nuvem ou imagem inadequada
+59133,False,boa,True,sem banco
+59134,False,ruim,False,nuvem ou imagem inadequada
+59135,False,ruim,False,nuvem ou imagem inadequada
+59136,False,ruim,False,nuvem ou imagem inadequada
+59137,False,ruim,False,nuvem ou imagem inadequada
+59138,False,ruim,False,nuvem ou imagem inadequada
+59139,False,ruim,False,nuvem ou imagem inadequada
+59140,False,boa,True,sem banco
+59141,False,boa,True,sem banco
+59142,False,boa,True,sem banco
+59143,False,boa,True,sem banco
+59144,False,ruim,False,nuvem ou imagem inadequada
+59145,False,ruim,False,nuvem ou imagem inadequada
+59146,True,boa,True,banco evidente
+59147,False,ruim,False,nuvem ou imagem inadequada
+59148,False,ruim,False,nuvem ou imagem inadequada
+59579,False,ruim,False,nuvem ou imagem inadequada
+59580,False,ruim,False,nuvem ou imagem inadequada
+59581,False,ruim,False,nuvem ou imagem inadequada
+59582,False,ruim,False,nuvem ou imagem inadequada
+60025,False,ruim,False,nuvem ou imagem inadequada
+60026,False,ruim,False,nuvem ou imagem inadequada
+60470,False,ruim,False,nuvem ou imagem inadequada
+60471,False,ruim,False,nuvem ou imagem inadequada
+60472,False,ruim,False,nuvem ou imagem inadequada
+60915,False,boa,True,sem banco
+60916,False,ruim,False,nuvem ou imagem inadequada
+60917,False,ruim,False,nuvem ou imagem inadequada
+61360,False,ruim,False,nuvem ou imagem inadequada
+61361,False,ruim,False,nuvem ou imagem inadequada
+61362,False,ruim,False,nuvem ou imagem inadequada
+61805,False,ruim,False,nuvem ou imagem inadequada
+61806,False,ruim,False,nuvem ou imagem inadequada
+61807,False,ruim,False,nuvem ou imagem inadequada
+62251,False,boa,True,sem banco
+62252,False,ruim,False,nuvem ou imagem inadequada
+62253,False,ruim,False,nuvem ou imagem inadequada
+62697,False,ruim,False,nuvem ou imagem inadequada
+62698,False,ruim,False,nuvem ou imagem inadequada
+62699,False,ruim,False,nuvem ou imagem inadequada
+63143,False,ruim,False,nuvem ou imagem inadequada
+63144,False,ruim,False,nuvem ou imagem inadequada
+63145,False,ruim,False,nuvem ou imagem inadequada
+63589,False,ruim,False,nuvem ou imagem inadequada
+63590,False,ruim,False,nuvem ou imagem inadequada
+64026,False,boa,True,sem banco
+64027,False,ruim,False,nuvem ou imagem inadequada
+64028,False,ruim,False,nuvem ou imagem inadequada
+64029,False,ruim,False,nuvem ou imagem inadequada
+64030,True,boa,True,banco evidente
+64031,False,ruim,False,nuvem ou imagem inadequada
+64032,False,boa,True,sem banco
+64034,False,ruim,False,nuvem ou imagem inadequada
+64035,False,ruim,False,nuvem ou imagem inadequada
+64471,False,boa,True,sem banco
+64472,False,ruim,False,nuvem ou imagem inadequada
+64473,False,ruim,False,nuvem ou imagem inadequada
+64474,False,ruim,False,nuvem ou imagem inadequada
+64475,False,ruim,False,nuvem ou imagem inadequada
+64476,False,ruim,False,nuvem ou imagem inadequada
+64477,False,ruim,False,nuvem ou imagem inadequada
+64478,False,ruim,False,nuvem ou imagem inadequada
+64479,False,ruim,False,nuvem ou imagem inadequada
+64480,False,ruim,False,nuvem ou imagem inadequada
+64916,False,boa,True,sem banco
+64917,False,ruim,False,nuvem ou imagem inadequada
+64918,False,ruim,False,nuvem ou imagem inadequada
+64921,False,boa,True,sem banco
+64922,False,ruim,False,nuvem ou imagem inadequada
+64923,False,ruim,False,nuvem ou imagem inadequada
+64924,False,ruim,False,nuvem ou imagem inadequada
+65360,False,boa,True,sem banco
+65361,False,ruim,False,nuvem ou imagem inadequada
+65362,False,ruim,False,nuvem ou imagem inadequada
+65363,False,ruim,False,nuvem ou imagem inadequada
+65805,False,boa,True,sem banco
+65806,False,ruim,False,nuvem ou imagem inadequada
+65807,False,ruim,False,nuvem ou imagem inadequada
+65808,False,ruim,False,nuvem ou imagem inadequada
+66247,False,boa,True,sem banco
+66248,False,ruim,False,nuvem ou imagem inadequada
+66249,False,boa,True,sem banco
+66250,False,ruim,False,nuvem ou imagem inadequada
+66251,False,ruim,False,nuvem ou imagem inadequada
+66252,False,ruim,False,nuvem ou imagem inadequada
+66253,False,boa,True,sem banco
+66692,False,ruim,False,nuvem ou imagem inadequada
+66693,False,ruim,False,nuvem ou imagem inadequada
+66694,False,ruim,False,nuvem ou imagem inadequada
+66695,False,ruim,False,nuvem ou imagem inadequada
+67138,False,ruim,False,nuvem ou imagem inadequada
+67583,False,ruim,False,nuvem ou imagem inadequada
+67584,False,ruim,False,nuvem ou imagem inadequada
+67585,False,ruim,False,nuvem ou imagem inadequada
+68028,False,ruim,False,nuvem ou imagem inadequada
+68029,False,ruim,False,nuvem ou imagem inadequada
+68030,False,ruim,False,nuvem ou imagem inadequada
+68472,False,ruim,False,nuvem ou imagem inadequada
+68473,False,ruim,False,nuvem ou imagem inadequada
+68474,False,ruim,False,nuvem ou imagem inadequada
+68914,False,boa,True,sem banco
+68915,False,boa,True,sem banco
+68916,False,ruim,False,nuvem ou imagem inadequada
+68917,False,ruim,False,nuvem ou imagem inadequada
+69353,False,ruim,False,nuvem ou imagem inadequada
+69354,False,ruim,False,nuvem ou imagem inadequada
+69355,False,ruim,False,nuvem ou imagem inadequada
+69359,False,ruim,False,nuvem ou imagem inadequada
+69360,False,ruim,False,nuvem ou imagem inadequada
+69796,False,boa,True,sem banco
+69797,False,boa,True,sem banco
+69798,False,ruim,False,nuvem ou imagem inadequada
+69799,False,ruim,False,nuvem ou imagem inadequada
+69800,False,ruim,False,nuvem ou imagem inadequada
+69801,False,ruim,False,nuvem ou imagem inadequada
+69802,False,boa,True,sem banco
+69803,False,boa,True,sem banco
+69805,False,ruim,False,nuvem ou imagem inadequada
+70241,False,ruim,False,nuvem ou imagem inadequada
+70243,False,ruim,False,nuvem ou imagem inadequada
+70244,False,boa,True,sem banco
+70245,False,ruim,False,nuvem ou imagem inadequada
+70246,True,boa,True,banco evidente
+70685,False,boa,True,sem banco
+70686,False,ruim,False,nuvem ou imagem inadequada
+70688,False,ruim,False,nuvem ou imagem inadequada
+70689,False,ruim,False,nuvem ou imagem inadequada
+71131,False,ruim,False,nuvem ou imagem inadequada
+71133,False,ruim,False,nuvem ou imagem inadequada
+71134,False,ruim,False,nuvem ou imagem inadequada
+71576,False,boa,True,sem banco
+71579,False,ruim,False,nuvem ou imagem inadequada
+72022,False,ruim,False,nuvem ou imagem inadequada
+72024,False,ruim,False,nuvem ou imagem inadequada
+72025,False,ruim,False,nuvem ou imagem inadequada
+72468,False,ruim,False,nuvem ou imagem inadequada
+72469,False,ruim,False,nuvem ou imagem inadequada
+72470,False,ruim,False,nuvem ou imagem inadequada
+72914,False,ruim,False,nuvem ou imagem inadequada
+72915,False,ruim,False,nuvem ou imagem inadequada
+72916,False,ruim,False,nuvem ou imagem inadequada
+73360,False,ruim,False,nuvem ou imagem inadequada
+73361,False,ruim,False,nuvem ou imagem inadequada
+73805,False,ruim,False,nuvem ou imagem inadequada
+73806,False,ruim,False,nuvem ou imagem inadequada
+73807,False,ruim,False,nuvem ou imagem inadequada
+74251,False,ruim,False,nuvem ou imagem inadequada
+74252,False,boa,True,sem banco
+74253,False,ruim,False,nuvem ou imagem inadequada
+74696,False,ruim,False,nuvem ou imagem inadequada
+74697,False,ruim,False,nuvem ou imagem inadequada
+74698,False,boa,True,sem banco
+75142,False,ruim,False,nuvem ou imagem inadequada
+75143,False,ruim,False,nuvem ou imagem inadequada
+75144,False,ruim,False,nuvem ou imagem inadequada
+75588,False,ruim,False,nuvem ou imagem inadequada
+75589,False,ruim,False,nuvem ou imagem inadequada
+75590,False,ruim,False,nuvem ou imagem inadequada
+76035,False,ruim,False,nuvem ou imagem inadequada
+76036,False,boa,True,sem banco
+76481,False,ruim,False,nuvem ou imagem inadequada
+76482,False,ruim,False,nuvem ou imagem inadequada
+76483,False,boa,True,sem banco
+76928,False,ruim,False,nuvem ou imagem inadequada
+76929,False,ruim,False,nuvem ou imagem inadequada
+77374,False,ruim,False,nuvem ou imagem inadequada
+77375,False,ruim,False,nuvem ou imagem inadequada
+77376,False,ruim,False,nuvem ou imagem inadequada
+77821,False,ruim,False,nuvem ou imagem inadequada
+77822,False,ruim,False,nuvem ou imagem inadequada
+78268,False,ruim,False,nuvem ou imagem inadequada
+78269,False,boa,True,sem banco
+78714,False,ruim,False,nuvem ou imagem inadequada
+78715,False,ruim,False,nuvem ou imagem inadequada
+78716,False,boa,True,sem banco
+79160,False,boa,True,sem banco
+79161,False,ruim,False,nuvem ou imagem inadequada
+79162,False,ruim,False,nuvem ou imagem inadequada
+79607,False,ruim,False,nuvem ou imagem inadequada
+79608,False,ruim,False,nuvem ou imagem inadequada
+80052,False,boa,True,sem banco
+80053,False,ruim,False,nuvem ou imagem inadequada
+80054,False,ruim,False,nuvem ou imagem inadequada
+80497,False,boa,True,sem banco
+80498,False,ruim,False,nuvem ou imagem inadequada
+80499,False,ruim,False,nuvem ou imagem inadequada
+80942,False,boa,True,sem banco
+80943,False,ruim,False,nuvem ou imagem inadequada
+80944,False,ruim,False,nuvem ou imagem inadequada
+80945,False,boa,True,sem banco
+81386,True,boa,True,banco evidente
+81387,False,ruim,False,nuvem ou imagem inadequada
+81388,False,ruim,False,nuvem ou imagem inadequada
+81389,False,ruim,False,nuvem ou imagem inadequada
+81390,False,ruim,False,nuvem ou imagem inadequada
+81391,False,ruim,False,nuvem ou imagem inadequada
+81831,False,ruim,False,nuvem ou imagem inadequada
+81832,False,ruim,False,nuvem ou imagem inadequada
+81833,False,ruim,False,nuvem ou imagem inadequada
+81835,False,ruim,False,nuvem ou imagem inadequada
+82277,False,ruim,False,nuvem ou imagem inadequada
+82722,False,ruim,False,nuvem ou imagem inadequada
+83167,False,ruim,False,nuvem ou imagem inadequada
+83168,False,boa,True,sem banco
+83612,False,boa,True,sem banco
+83613,False,ruim,False,nuvem ou imagem inadequada
+84058,False,ruim,False,nuvem ou imagem inadequada
+84059,False,ruim,False,nuvem ou imagem inadequada
+84502,False,boa,True,sem banco
+84503,False,ruim,False,nuvem ou imagem inadequada
+84504,False,ruim,False,nuvem ou imagem inadequada
+84505,False,ruim,False,nuvem ou imagem inadequada
+84948,False,ruim,False,nuvem ou imagem inadequada
+84949,False,ruim,False,nuvem ou imagem inadequada
+84950,False,ruim,False,nuvem ou imagem inadequada
+85388,False,boa,True,sem banco
+85389,False,boa,True,sem banco
+85390,False,boa,True,sem banco
+85394,False,ruim,False,nuvem ou imagem inadequada
+85395,False,ruim,False,nuvem ou imagem inadequada
+85832,False,ruim,False,nuvem ou imagem inadequada
+85833,False,ruim,False,nuvem ou imagem inadequada
+85834,False,ruim,False,nuvem ou imagem inadequada
+85835,False,ruim,False,nuvem ou imagem inadequada
+85836,False,ruim,False,nuvem ou imagem inadequada
+85837,False,ruim,False,nuvem ou imagem inadequada
+85838,False,ruim,False,nuvem ou imagem inadequada
+85839,False,ruim,False,nuvem ou imagem inadequada
+85840,False,ruim,False,nuvem ou imagem inadequada
+85841,False,ruim,False,nuvem ou imagem inadequada
+86282,False,ruim,False,nuvem ou imagem inadequada
+86283,False,ruim,False,nuvem ou imagem inadequada
+86284,False,ruim,False,nuvem ou imagem inadequada
+86285,False,ruim,False,nuvem ou imagem inadequada
+86714,False,boa,True,sem banco
+86715,False,boa,True,sem banco
+86716,False,ruim,False,nuvem ou imagem inadequada
+86717,False,boa,True,sem banco
+86718,False,boa,True,sem banco
+86719,True,boa,True,banco evidente
+86720,False,ruim,False,nuvem ou imagem inadequada
+86730,False,boa,True,sem banco
+87159,False,boa,True,sem banco
+87160,False,boa,True,sem banco
+87167,False,ruim,False,nuvem ou imagem inadequada
+87168,False,boa,True,sem banco
+87169,False,boa,True,sem banco
+87604,False,ruim,False,nuvem ou imagem inadequada
+88049,False,boa,True,sem banco
+88495,False,ruim,False,nuvem ou imagem inadequada
+88940,False,ruim,False,nuvem ou imagem inadequada
+89386,False,ruim,False,nuvem ou imagem inadequada
+89832,False,ruim,False,nuvem ou imagem inadequada
+90278,False,ruim,False,nuvem ou imagem inadequada
+90279,False,ruim,False,nuvem ou imagem inadequada
+90725,False,ruim,False,nuvem ou imagem inadequada
+90726,False,ruim,False,nuvem ou imagem inadequada
+91172,False,ruim,False,nuvem ou imagem inadequada
+91618,False,ruim,False,nuvem ou imagem inadequada
+91619,False,ruim,False,nuvem ou imagem inadequada
+92065,False,ruim,False,nuvem ou imagem inadequada
+92511,False,ruim,False,nuvem ou imagem inadequada
+92957,False,boa,True,sem banco
+93402,False,ruim,False,nuvem ou imagem inadequada
+93845,False,ruim,False,nuvem ou imagem inadequada
+93846,False,boa,True,sem banco
+93847,False,boa,True,sem banco
+93848,False,boa,True,sem banco
+94288,False,boa,True,sem banco
+94289,False,ruim,False,nuvem ou imagem inadequada
+94290,False,ruim,False,nuvem ou imagem inadequada
+94733,False,ruim,False,nuvem ou imagem inadequada
+94734,False,ruim,False,nuvem ou imagem inadequada
+95179,False,ruim,False,nuvem ou imagem inadequada
+95624,False,boa,True,sem banco
+96070,False,ruim,False,nuvem ou imagem inadequada
+96516,False,ruim,False,nuvem ou imagem inadequada
+96962,False,ruim,False,nuvem ou imagem inadequada
+97407,False,ruim,False,nuvem ou imagem inadequada
+97408,False,ruim,False,nuvem ou imagem inadequada
+97853,False,ruim,False,nuvem ou imagem inadequada
+97854,False,ruim,False,nuvem ou imagem inadequada
+98297,False,boa,True,sem banco
+98298,False,ruim,False,nuvem ou imagem inadequada
+98299,False,ruim,False,nuvem ou imagem inadequada
+98300,False,boa,True,sem banco
+98743,False,ruim,False,nuvem ou imagem inadequada
+98744,False,ruim,False,nuvem ou imagem inadequada
+99188,False,ruim,False,nuvem ou imagem inadequada
+99189,False,ruim,False,nuvem ou imagem inadequada
+99634,False,ruim,False,nuvem ou imagem inadequada
+99635,False,ruim,False,nuvem ou imagem inadequada
+100080,False,ruim,False,nuvem ou imagem inadequada
+100524,False,ruim,False,nuvem ou imagem inadequada
+100525,False,ruim,False,nuvem ou imagem inadequada
+100526,False,ruim,False,nuvem ou imagem inadequada
+100969,False,boa,True,sem banco
+100971,False,ruim,False,nuvem ou imagem inadequada
+101414,False,boa,True,sem banco
+101416,False,boa,True,sem banco
+101417,False,boa,True,sem banco
+101859,False,boa,True,sem banco
+101861,False,ruim,False,nuvem ou imagem inadequada
+101862,False,ruim,False,nuvem ou imagem inadequada
+102306,False,ruim,False,nuvem ou imagem inadequada
+102307,False,ruim,False,nuvem ou imagem inadequada
+102750,False,ruim,False,nuvem ou imagem inadequada
+102751,False,ruim,False,nuvem ou imagem inadequada
+102752,False,ruim,False,nuvem ou imagem inadequada
+102753,False,ruim,False,nuvem ou imagem inadequada
+103196,False,ruim,False,nuvem ou imagem inadequada
+103197,False,ruim,False,nuvem ou imagem inadequada
+103198,False,ruim,False,nuvem ou imagem inadequada
+103641,False,ruim,False,nuvem ou imagem inadequada
+103642,False,boa,True,sem banco
+103643,False,ruim,False,nuvem ou imagem inadequada
+104088,False,ruim,False,nuvem ou imagem inadequada
+104089,False,ruim,False,nuvem ou imagem inadequada
+104533,False,ruim,False,nuvem ou imagem inadequada
+104534,False,ruim,False,nuvem ou imagem inadequada
+104978,False,boa,True,sem banco
+104979,False,ruim,False,nuvem ou imagem inadequada
+105424,False,ruim,False,nuvem ou imagem inadequada
+105425,False,boa,True,sem banco
+105869,False,boa,True,sem banco
+105870,False,ruim,False,nuvem ou imagem inadequada
+106315,False,ruim,False,nuvem ou imagem inadequada
+106316,False,ruim,False,nuvem ou imagem inadequada
+106760,False,boa,True,sem banco
+106761,False,ruim,False,nuvem ou imagem inadequada
+107205,False,boa,True,sem banco
+107206,False,ruim,False,nuvem ou imagem inadequada
+107650,False,boa,True,sem banco
+107651,False,ruim,False,nuvem ou imagem inadequada
+107652,False,boa,True,sem banco
+108094,False,ruim,False,nuvem ou imagem inadequada
+108096,False,ruim,False,nuvem ou imagem inadequada
+108097,False,ruim,False,nuvem ou imagem inadequada
+108541,False,boa,True,sem banco
+108542,False,ruim,False,nuvem ou imagem inadequada
+108543,False,ruim,False,nuvem ou imagem inadequada
+108982,True,boa,True,banco evidente
+108987,False,boa,True,sem banco
+108988,False,boa,True,sem banco
+109428,False,boa,True,sem banco
+109432,False,boa,True,sem banco
+109433,False,boa,True,sem banco
+109434,False,boa,True,sem banco
+109878,False,boa,True,sem banco
+109879,False,boa,True,sem banco
+110324,False,ruim,False,nuvem ou imagem inadequada
+110325,False,ruim,False,nuvem ou imagem inadequada
+110769,False,boa,True,sem banco
+110770,False,ruim,False,nuvem ou imagem inadequada
+111209,False,boa,True,sem banco
+111210,False,boa,True,sem banco
+111211,True,boa,True,banco evidente
+111212,False,boa,True,sem banco
+111214,False,ruim,False,nuvem ou imagem inadequada
+111215,False,boa,True,sem banco
+111654,False,boa,True,sem banco
+111655,False,boa,True,sem banco
+111656,False,boa,True,sem banco
+111658,False,boa,True,sem banco
+111659,False,ruim,False,nuvem ou imagem inadequada
+111660,False,boa,True,sem banco
+112099,False,ruim,False,nuvem ou imagem inadequada
+112100,False,boa,True,sem banco
+112101,False,ruim,False,nuvem ou imagem inadequada
+112102,False,ruim,False,nuvem ou imagem inadequada
+112103,False,ruim,False,nuvem ou imagem inadequada
+112104,False,ruim,False,nuvem ou imagem inadequada
+112544,False,ruim,False,nuvem ou imagem inadequada
+112545,False,boa,True,sem banco
+112546,False,ruim,False,nuvem ou imagem inadequada
+112548,False,ruim,False,nuvem ou imagem inadequada
+112549,False,boa,True,sem banco
+112989,False,ruim,False,nuvem ou imagem inadequada
+112990,False,ruim,False,nuvem ou imagem inadequada
+112991,False,boa,True,sem banco
+112992,False,boa,True,sem banco
+112993,False,boa,True,sem banco
+113428,False,boa,True,sem banco
+113432,False,ruim,False,nuvem ou imagem inadequada
+113433,False,ruim,False,nuvem ou imagem inadequada
+113434,False,ruim,False,nuvem ou imagem inadequada
+113435,False,ruim,False,nuvem ou imagem inadequada
+113436,False,ruim,False,nuvem ou imagem inadequada
+113437,False,boa,True,sem banco
+113873,False,ruim,False,nuvem ou imagem inadequada
+113874,False,ruim,False,nuvem ou imagem inadequada
+113875,False,ruim,False,nuvem ou imagem inadequada
+113876,False,ruim,False,nuvem ou imagem inadequada
+113877,False,ruim,False,nuvem ou imagem inadequada
+113878,False,ruim,False,nuvem ou imagem inadequada
+113880,False,boa,True,sem banco
+113881,False,ruim,False,nuvem ou imagem inadequada
+113882,True,boa,True,banco evidente
+114318,False,ruim,False,nuvem ou imagem inadequada
+114319,False,ruim,False,nuvem ou imagem inadequada
+114322,False,ruim,False,nuvem ou imagem inadequada
+114323,False,ruim,False,nuvem ou imagem inadequada
+114327,False,ruim,False,nuvem ou imagem inadequada
+114762,False,boa,True,sem banco
+114763,False,boa,True,sem banco
+114764,False,ruim,False,nuvem ou imagem inadequada
+114765,False,ruim,False,nuvem ou imagem inadequada
+115207,True,boa,True,banco evidente
+115208,False,ruim,False,nuvem ou imagem inadequada
+115209,False,ruim,False,nuvem ou imagem inadequada
+115210,False,ruim,False,nuvem ou imagem inadequada
+115651,False,boa,True,sem banco
+115652,False,ruim,False,nuvem ou imagem inadequada
+115653,False,ruim,False,nuvem ou imagem inadequada
+115654,False,ruim,False,3
+115655,True,boa,True,banco evidente
+115656,False,boa,True,sem banco
+116096,False,boa,True,sem banco
+116098,False,ruim,False,nuvem ou imagem inadequada
+116099,False,ruim,False,nuvem ou imagem inadequada
+116100,False,boa,True,sem banco
+116101,False,boa,True,sem banco
+116541,False,boa,True,sem banco
+116543,False,ruim,False,nuvem ou imagem inadequada
+116544,False,ruim,False,nuvem ou imagem inadequada
+116986,False,boa,True,sem banco
+116987,False,ruim,False,nuvem ou imagem inadequada
+116988,False,ruim,False,nuvem ou imagem inadequada
+117432,False,ruim,False,nuvem ou imagem inadequada
+117433,False,ruim,False,nuvem ou imagem inadequada
+117877,False,ruim,False,nuvem ou imagem inadequada
+117878,False,ruim,False,nuvem ou imagem inadequada
+117879,False,ruim,False,nuvem ou imagem inadequada
+118322,False,ruim,False,nuvem ou imagem inadequada
+118323,False,ruim,False,nuvem ou imagem inadequada
+118324,False,ruim,False,nuvem ou imagem inadequada
+118325,False,boa,True,sem banco
+118768,False,ruim,False,nuvem ou imagem inadequada
+118769,False,ruim,False,nuvem ou imagem inadequada
+118770,False,ruim,False,nuvem ou imagem inadequada
+118771,False,ruim,False,nuvem ou imagem inadequada
+119213,False,boa,True,sem banco
+119214,False,boa,True,sem banco
+119215,False,ruim,False,nuvem ou imagem inadequada
+119657,False,ruim,False,nuvem ou imagem inadequada
+119658,False,ruim,False,nuvem ou imagem inadequada
+119659,False,ruim,False,nuvem ou imagem inadequada
+120102,False,ruim,False,nuvem ou imagem inadequada
+120103,False,ruim,False,nuvem ou imagem inadequada
+120104,False,boa,True,sem banco
+120546,False,ruim,False,nuvem ou imagem inadequada
+120547,False,ruim,False,nuvem ou imagem inadequada
+120548,False,ruim,False,nuvem ou imagem inadequada
+120549,False,ruim,False,nuvem ou imagem inadequada
+120990,False,ruim,False,nuvem ou imagem inadequada
+120991,False,ruim,False,nuvem ou imagem inadequada
+120992,False,ruim,False,nuvem ou imagem inadequada
+120993,False,ruim,False,nuvem ou imagem inadequada
+120994,False,ruim,False,nuvem ou imagem inadequada
+121421,False,boa,True,sem banco
+121422,False,ruim,False,nuvem ou imagem inadequada
+121423,False,ruim,False,nuvem ou imagem inadequada
+121424,False,ruim,False,nuvem ou imagem inadequada
+121425,False,ruim,False,nuvem ou imagem inadequada
+121426,False,ruim,False,nuvem ou imagem inadequada
+121427,True,boa,True,banco evidente
+121435,False,ruim,False,nuvem ou imagem inadequada
+121436,False,ruim,False,nuvem ou imagem inadequada
+121437,False,ruim,False,nuvem ou imagem inadequada
+121438,False,ruim,False,nuvem ou imagem inadequada
+121439,True,boa,True,banco evidente
+121864,False,ruim,False,nuvem ou imagem inadequada
+121865,False,ruim,False,nuvem ou imagem inadequada
+121866,False,ruim,False,nuvem ou imagem inadequada
+121867,False,ruim,False,nuvem ou imagem inadequada
+121868,False,ruim,False,nuvem ou imagem inadequada
+121869,False,ruim,False,nuvem ou imagem inadequada
+121870,False,ruim,False,nuvem ou imagem inadequada
+121871,False,ruim,False,nuvem ou imagem inadequada
+121872,False,ruim,False,nuvem ou imagem inadequada
+121873,False,ruim,False,nuvem ou imagem inadequada
+121874,False,boa,True,sem banco
+121875,False,ruim,False,nuvem ou imagem inadequada
+121877,False,boa,True,sem banco
+121878,True,boa,True,banco evidente
+121879,False,ruim,False,nuvem ou imagem inadequada
+121880,False,ruim,False,nuvem ou imagem inadequada
+121881,False,ruim,False,nuvem ou imagem inadequada
+121882,False,ruim,False,nuvem ou imagem inadequada
+121883,False,ruim,False,nuvem ou imagem inadequada
+121884,True,boa,True,banco evidente
+122306,False,ruim,False,nuvem ou imagem inadequada
+122307,False,ruim,False,nuvem ou imagem inadequada
+122308,False,ruim,False,nuvem ou imagem inadequada
+122309,False,ruim,False,nuvem ou imagem inadequada
+122310,False,ruim,False,nuvem ou imagem inadequada
+122311,False,ruim,False,nuvem ou imagem inadequada
+122312,False,ruim,False,nuvem ou imagem inadequada
+122313,False,ruim,False,nuvem ou imagem inadequada
+122314,False,ruim,False,nuvem ou imagem inadequada
+122315,False,ruim,False,nuvem ou imagem inadequada
+122316,False,ruim,False,nuvem ou imagem inadequada
+122317,False,ruim,False,nuvem ou imagem inadequada
+122318,False,ruim,False,nuvem ou imagem inadequada
+122319,False,ruim,False,nuvem ou imagem inadequada
+122320,False,ruim,False,nuvem ou imagem inadequada
+122321,False,ruim,False,nuvem ou imagem inadequada
+122323,False,ruim,False,nuvem ou imagem inadequada
+122324,False,ruim,False,nuvem ou imagem inadequada
+122325,False,ruim,False,nuvem ou imagem inadequada
+122326,False,ruim,False,nuvem ou imagem inadequada
+122327,False,ruim,False,nuvem ou imagem inadequada
+122328,False,boa,True,sem banco
+122329,True,boa,True,banco evidente
+122749,False,ruim,False,nuvem ou imagem inadequada
+122750,False,ruim,False,nuvem ou imagem inadequada
+122751,False,ruim,False,nuvem ou imagem inadequada
+122752,False,ruim,False,nuvem ou imagem inadequada
+122753,False,ruim,False,nuvem ou imagem inadequada
+122754,False,ruim,False,nuvem ou imagem inadequada
+122755,False,ruim,False,nuvem ou imagem inadequada
+122756,False,ruim,False,nuvem ou imagem inadequada
+122757,False,ruim,False,nuvem ou imagem inadequada
+122758,False,ruim,False,nuvem ou imagem inadequada
+122759,False,ruim,False,nuvem ou imagem inadequada
+122760,False,ruim,False,nuvem ou imagem inadequada
+122763,False,ruim,False,nuvem ou imagem inadequada
+122764,False,ruim,False,nuvem ou imagem inadequada
+122765,False,ruim,False,nuvem ou imagem inadequada
+122766,False,ruim,False,nuvem ou imagem inadequada
+122767,False,ruim,False,nuvem ou imagem inadequada
+122768,False,ruim,False,nuvem ou imagem inadequada
+122769,False,ruim,False,nuvem ou imagem inadequada
+123193,False,ruim,False,nuvem ou imagem inadequada
+123194,False,ruim,False,nuvem ou imagem inadequada
+123195,False,ruim,False,nuvem ou imagem inadequada
+123196,False,ruim,False,nuvem ou imagem inadequada
+123197,False,ruim,False,nuvem ou imagem inadequada
+123198,False,ruim,False,nuvem ou imagem inadequada
+123199,False,ruim,False,nuvem ou imagem inadequada
+123200,False,ruim,False,nuvem ou imagem inadequada
+123201,False,ruim,False,nuvem ou imagem inadequada
+123202,False,ruim,False,nuvem ou imagem inadequada
+123203,False,ruim,False,nuvem ou imagem inadequada
+123204,False,ruim,False,nuvem ou imagem inadequada
+123205,False,ruim,False,nuvem ou imagem inadequada
+123207,False,ruim,False,nuvem ou imagem inadequada
+123208,False,ruim,False,nuvem ou imagem inadequada
+123209,False,ruim,False,nuvem ou imagem inadequada
+123210,False,ruim,False,nuvem ou imagem inadequada
+123211,False,ruim,False,nuvem ou imagem inadequada
+123212,False,ruim,False,nuvem ou imagem inadequada
+123213,False,ruim,False,nuvem ou imagem inadequada
+123214,False,ruim,False,nuvem ou imagem inadequada
+123637,False,ruim,False,nuvem ou imagem inadequada
+123638,False,ruim,False,nuvem ou imagem inadequada
+123639,False,ruim,False,nuvem ou imagem inadequada
+123640,False,ruim,False,nuvem ou imagem inadequada
+123641,False,ruim,False,nuvem ou imagem inadequada
+123642,False,ruim,False,nuvem ou imagem inadequada
+123643,False,ruim,False,nuvem ou imagem inadequada
+123644,False,ruim,False,nuvem ou imagem inadequada
+123645,False,ruim,False,nuvem ou imagem inadequada
+123646,False,ruim,False,nuvem ou imagem inadequada
+123647,False,ruim,False,nuvem ou imagem inadequada
+123648,False,ruim,False,nuvem ou imagem inadequada
+123649,False,ruim,False,nuvem ou imagem inadequada
+123650,False,ruim,False,nuvem ou imagem inadequada
+123651,False,ruim,False,nuvem ou imagem inadequada
+123652,False,ruim,False,nuvem ou imagem inadequada
+123653,False,ruim,False,nuvem ou imagem inadequada
+123654,True,boa,True,banco evidente
+123655,False,ruim,False,nuvem ou imagem inadequada
+123656,False,ruim,False,nuvem ou imagem inadequada
+123657,False,ruim,False,nuvem ou imagem inadequada
+123658,False,ruim,False,nuvem ou imagem inadequada
+123659,False,ruim,False,nuvem ou imagem inadequada
+123660,False,boa,True,sem banco
+124078,False,boa,True,sem banco
+124079,False,ruim,False,nuvem ou imagem inadequada
+124080,False,ruim,False,nuvem ou imagem inadequada
+124081,False,ruim,False,nuvem ou imagem inadequada
+124082,False,ruim,False,nuvem ou imagem inadequada
+124083,False,ruim,False,nuvem ou imagem inadequada
+124084,False,ruim,False,nuvem ou imagem inadequada
+124085,False,ruim,False,nuvem ou imagem inadequada
+124086,False,ruim,False,nuvem ou imagem inadequada
+124087,False,ruim,False,nuvem ou imagem inadequada
+124088,False,ruim,False,nuvem ou imagem inadequada
+124089,False,ruim,False,nuvem ou imagem inadequada
+124090,False,ruim,False,nuvem ou imagem inadequada
+124091,False,ruim,False,nuvem ou imagem inadequada
+124092,False,ruim,False,nuvem ou imagem inadequada
+124093,False,ruim,False,nuvem ou imagem inadequada
+124094,False,ruim,False,nuvem ou imagem inadequada
+124095,False,ruim,False,nuvem ou imagem inadequada
+124096,False,ruim,False,nuvem ou imagem inadequada
+124097,False,ruim,False,nuvem ou imagem inadequada
+124098,False,ruim,False,3
+124099,False,ruim,False,nuvem ou imagem inadequada
+124100,False,boa,True,sem banco
+124101,False,ruim,False,nuvem ou imagem inadequada
+124102,False,ruim,False,nuvem ou imagem inadequada
+124103,False,ruim,False,nuvem ou imagem inadequada
+124104,False,ruim,False,nuvem ou imagem inadequada
+124105,False,ruim,False,nuvem ou imagem inadequada
+124522,False,ruim,False,nuvem ou imagem inadequada
+124523,False,ruim,False,nuvem ou imagem inadequada
+124524,False,ruim,False,nuvem ou imagem inadequada
+124525,False,ruim,False,nuvem ou imagem inadequada
+124526,False,ruim,False,nuvem ou imagem inadequada
+124527,False,ruim,False,nuvem ou imagem inadequada
+124528,False,ruim,False,nuvem ou imagem inadequada
+124529,False,ruim,False,nuvem ou imagem inadequada
+124530,False,ruim,False,nuvem ou imagem inadequada
+124531,False,ruim,False,nuvem ou imagem inadequada
+124532,False,ruim,False,nuvem ou imagem inadequada
+124533,False,ruim,False,nuvem ou imagem inadequada
+124534,False,ruim,False,nuvem ou imagem inadequada
+124535,False,ruim,False,nuvem ou imagem inadequada
+124536,False,ruim,False,nuvem ou imagem inadequada
+124537,False,ruim,False,nuvem ou imagem inadequada
+124538,False,ruim,False,nuvem ou imagem inadequada
+124539,False,ruim,False,nuvem ou imagem inadequada
+124540,False,ruim,False,nuvem ou imagem inadequada
+124541,False,ruim,False,nuvem ou imagem inadequada
+124542,False,ruim,False,nuvem ou imagem inadequada
+124543,False,ruim,False,nuvem ou imagem inadequada
+124544,False,ruim,False,nuvem ou imagem inadequada
+124545,False,ruim,False,nuvem ou imagem inadequada
+124546,False,ruim,False,nuvem ou imagem inadequada
+124547,False,ruim,False,nuvem ou imagem inadequada
+124548,False,ruim,False,nuvem ou imagem inadequada
+124549,False,ruim,False,nuvem ou imagem inadequada
+124550,False,ruim,False,nuvem ou imagem inadequada
+124963,False,boa,True,sem banco
+124964,False,ruim,False,nuvem ou imagem inadequada
+124965,False,ruim,False,nuvem ou imagem inadequada
+124966,False,ruim,False,nuvem ou imagem inadequada
+124967,False,ruim,False,nuvem ou imagem inadequada
+124968,False,ruim,False,nuvem ou imagem inadequada
+124969,False,ruim,False,nuvem ou imagem inadequada
+124970,False,ruim,False,nuvem ou imagem inadequada
+124971,False,ruim,False,nuvem ou imagem inadequada
+124972,False,ruim,False,nuvem ou imagem inadequada
+124973,False,ruim,False,nuvem ou imagem inadequada
+124974,False,ruim,False,nuvem ou imagem inadequada
+124975,False,ruim,False,nuvem ou imagem inadequada
+124976,False,ruim,False,nuvem ou imagem inadequada
+124977,False,ruim,False,nuvem ou imagem inadequada
+124978,False,ruim,False,nuvem ou imagem inadequada
+124979,False,ruim,False,nuvem ou imagem inadequada
+124980,False,ruim,False,nuvem ou imagem inadequada
+124981,False,ruim,False,nuvem ou imagem inadequada
+124982,False,ruim,False,nuvem ou imagem inadequada
+124983,False,ruim,False,nuvem ou imagem inadequada
+124984,False,ruim,False,nuvem ou imagem inadequada
+124985,False,ruim,False,nuvem ou imagem inadequada
+124986,False,ruim,False,nuvem ou imagem inadequada
+124987,False,ruim,False,nuvem ou imagem inadequada
+124988,False,ruim,False,nuvem ou imagem inadequada
+124989,False,ruim,False,nuvem ou imagem inadequada
+124990,False,ruim,False,nuvem ou imagem inadequada
+124991,False,ruim,False,nuvem ou imagem inadequada
+124992,False,ruim,False,nuvem ou imagem inadequada
+124993,False,ruim,False,nuvem ou imagem inadequada
+125408,False,ruim,False,nuvem ou imagem inadequada
+125409,False,ruim,False,nuvem ou imagem inadequada
+125410,False,ruim,False,nuvem ou imagem inadequada
+125411,False,ruim,False,nuvem ou imagem inadequada
+125412,False,ruim,False,nuvem ou imagem inadequada
+125413,False,ruim,False,nuvem ou imagem inadequada
+125414,False,ruim,False,nuvem ou imagem inadequada
+125415,False,ruim,False,nuvem ou imagem inadequada
+125416,False,ruim,False,nuvem ou imagem inadequada
+125417,False,ruim,False,nuvem ou imagem inadequada
+125418,False,ruim,False,nuvem ou imagem inadequada
+125419,False,ruim,False,nuvem ou imagem inadequada
+125420,False,ruim,False,nuvem ou imagem inadequada
+125421,False,ruim,False,nuvem ou imagem inadequada
+125422,False,ruim,False,nuvem ou imagem inadequada
+125423,False,ruim,False,nuvem ou imagem inadequada
+125424,False,ruim,False,nuvem ou imagem inadequada
+125425,False,ruim,False,nuvem ou imagem inadequada
+125426,False,ruim,False,nuvem ou imagem inadequada
+125427,False,ruim,False,nuvem ou imagem inadequada
+125428,False,ruim,False,nuvem ou imagem inadequada
+125429,False,ruim,False,nuvem ou imagem inadequada
+125430,False,ruim,False,nuvem ou imagem inadequada
+125431,False,ruim,False,nuvem ou imagem inadequada
+125432,False,ruim,False,nuvem ou imagem inadequada
+125433,False,ruim,False,nuvem ou imagem inadequada
+125434,False,ruim,False,nuvem ou imagem inadequada
+125435,False,ruim,False,nuvem ou imagem inadequada
+125436,False,ruim,False,nuvem ou imagem inadequada
+125852,False,boa,True,sem banco
+125853,False,ruim,False,nuvem ou imagem inadequada
+125854,False,ruim,False,nuvem ou imagem inadequada
+125855,False,ruim,False,nuvem ou imagem inadequada
+125856,False,ruim,False,nuvem ou imagem inadequada
+125857,False,ruim,False,nuvem ou imagem inadequada
+125858,False,ruim,False,nuvem ou imagem inadequada
+125859,False,ruim,False,nuvem ou imagem inadequada
+125860,False,ruim,False,nuvem ou imagem inadequada
+125861,False,ruim,False,nuvem ou imagem inadequada
+125862,False,ruim,False,nuvem ou imagem inadequada
+125863,False,ruim,False,nuvem ou imagem inadequada
+125864,False,ruim,False,nuvem ou imagem inadequada
+125865,False,ruim,False,nuvem ou imagem inadequada
+125866,False,ruim,False,nuvem ou imagem inadequada
+125867,False,ruim,False,nuvem ou imagem inadequada
+125868,False,ruim,False,nuvem ou imagem inadequada
+125869,False,ruim,False,nuvem ou imagem inadequada
+125870,False,ruim,False,nuvem ou imagem inadequada
+125871,False,ruim,False,nuvem ou imagem inadequada
+125872,False,ruim,False,nuvem ou imagem inadequada
+125873,False,ruim,False,nuvem ou imagem inadequada
+125874,False,ruim,False,nuvem ou imagem inadequada
+125875,False,ruim,False,nuvem ou imagem inadequada
+125876,False,ruim,False,nuvem ou imagem inadequada
+125877,False,ruim,False,nuvem ou imagem inadequada
+125878,False,ruim,False,nuvem ou imagem inadequada
+125879,False,ruim,False,nuvem ou imagem inadequada
+125880,False,boa,True,sem banco
+126296,False,ruim,False,nuvem ou imagem inadequada
+126297,False,ruim,False,nuvem ou imagem inadequada
+126298,False,ruim,False,nuvem ou imagem inadequada
+126299,False,ruim,False,nuvem ou imagem inadequada
+126300,False,ruim,False,nuvem ou imagem inadequada
+126301,False,ruim,False,nuvem ou imagem inadequada
+126302,False,ruim,False,nuvem ou imagem inadequada
+126303,False,ruim,False,nuvem ou imagem inadequada
+126304,False,ruim,False,nuvem ou imagem inadequada
+126305,False,ruim,False,nuvem ou imagem inadequada
+126306,False,ruim,False,nuvem ou imagem inadequada
+126307,False,ruim,False,nuvem ou imagem inadequada
+126308,False,ruim,False,nuvem ou imagem inadequada
+126309,False,ruim,False,nuvem ou imagem inadequada
+126310,False,ruim,False,nuvem ou imagem inadequada
+126311,False,ruim,False,nuvem ou imagem inadequada
+126312,False,ruim,False,nuvem ou imagem inadequada
+126313,False,ruim,False,nuvem ou imagem inadequada
+126314,False,ruim,False,nuvem ou imagem inadequada
+126315,False,ruim,False,nuvem ou imagem inadequada
+126316,False,ruim,False,nuvem ou imagem inadequada
+126317,False,ruim,False,nuvem ou imagem inadequada
+126318,False,ruim,False,nuvem ou imagem inadequada
+126319,False,ruim,False,nuvem ou imagem inadequada
+126320,False,ruim,False,nuvem ou imagem inadequada
+126321,False,ruim,False,nuvem ou imagem inadequada
+126322,False,ruim,False,nuvem ou imagem inadequada
+126323,False,ruim,False,nuvem ou imagem inadequada
+126730,False,boa,True,sem banco
+126731,False,ruim,False,nuvem ou imagem inadequada
+126732,False,ruim,False,nuvem ou imagem inadequada
+126733,False,ruim,False,nuvem ou imagem inadequada
+126734,False,ruim,False,nuvem ou imagem inadequada
+126735,False,ruim,False,nuvem ou imagem inadequada
+126741,False,boa,True,sem banco
+126742,False,ruim,False,nuvem ou imagem inadequada
+126743,False,ruim,False,nuvem ou imagem inadequada
+126744,False,ruim,False,nuvem ou imagem inadequada
+126745,False,ruim,False,nuvem ou imagem inadequada
+126746,False,ruim,False,nuvem ou imagem inadequada
+126747,False,ruim,False,nuvem ou imagem inadequada
+126748,False,ruim,False,nuvem ou imagem inadequada
+126749,False,ruim,False,nuvem ou imagem inadequada
+126750,False,ruim,False,nuvem ou imagem inadequada
+126751,False,ruim,False,nuvem ou imagem inadequada
+126752,False,ruim,False,nuvem ou imagem inadequada
+126753,False,ruim,False,nuvem ou imagem inadequada
+126754,False,ruim,False,nuvem ou imagem inadequada
+126755,False,ruim,False,nuvem ou imagem inadequada
+126756,False,ruim,False,nuvem ou imagem inadequada
+126757,False,ruim,False,nuvem ou imagem inadequada
+126758,False,ruim,False,nuvem ou imagem inadequada
+126759,False,ruim,False,nuvem ou imagem inadequada
+126760,False,ruim,False,nuvem ou imagem inadequada
+126761,False,ruim,False,nuvem ou imagem inadequada
+126762,False,ruim,False,nuvem ou imagem inadequada
+126763,False,ruim,False,nuvem ou imagem inadequada
+126764,False,ruim,False,nuvem ou imagem inadequada
+126765,False,ruim,False,nuvem ou imagem inadequada
+126766,False,ruim,False,nuvem ou imagem inadequada
+127174,False,boa,True,sem banco
+127175,False,ruim,False,nuvem ou imagem inadequada
+127176,False,ruim,False,nuvem ou imagem inadequada
+127177,False,ruim,False,nuvem ou imagem inadequada
+127178,False,ruim,False,nuvem ou imagem inadequada
+127179,False,ruim,False,nuvem ou imagem inadequada
+127180,False,ruim,False,nuvem ou imagem inadequada
+127181,False,ruim,False,nuvem ou imagem inadequada
+127182,False,ruim,False,nuvem ou imagem inadequada
+127183,False,ruim,False,nuvem ou imagem inadequada
+127184,False,ruim,False,nuvem ou imagem inadequada
+127185,False,ruim,False,nuvem ou imagem inadequada
+127186,False,ruim,False,nuvem ou imagem inadequada
+127187,False,ruim,False,nuvem ou imagem inadequada
+127188,False,ruim,False,nuvem ou imagem inadequada
+127189,False,ruim,False,nuvem ou imagem inadequada
+127190,False,ruim,False,nuvem ou imagem inadequada
+127191,False,ruim,False,nuvem ou imagem inadequada
+127192,False,ruim,False,nuvem ou imagem inadequada
+127193,False,ruim,False,nuvem ou imagem inadequada
+127194,False,ruim,False,nuvem ou imagem inadequada
+127195,False,ruim,False,nuvem ou imagem inadequada
+127196,False,ruim,False,nuvem ou imagem inadequada
+127197,False,ruim,False,nuvem ou imagem inadequada
+127198,False,ruim,False,nuvem ou imagem inadequada
+127199,False,ruim,False,nuvem ou imagem inadequada
+127200,False,ruim,False,nuvem ou imagem inadequada
+127201,False,ruim,False,nuvem ou imagem inadequada
+127202,False,ruim,False,nuvem ou imagem inadequada
+127203,False,ruim,False,nuvem ou imagem inadequada
+127204,False,ruim,False,nuvem ou imagem inadequada
+127205,False,ruim,False,nuvem ou imagem inadequada
+127206,False,ruim,False,nuvem ou imagem inadequada
+127209,False,boa,True,sem banco
+127617,False,boa,True,sem banco
+127618,False,ruim,False,nuvem ou imagem inadequada
+127619,False,ruim,False,nuvem ou imagem inadequada
+127620,False,ruim,False,nuvem ou imagem inadequada
+127621,False,ruim,False,nuvem ou imagem inadequada
+127622,False,ruim,False,nuvem ou imagem inadequada
+127623,False,ruim,False,nuvem ou imagem inadequada
+127624,False,ruim,False,nuvem ou imagem inadequada
+127625,False,ruim,False,nuvem ou imagem inadequada
+127626,False,ruim,False,nuvem ou imagem inadequada
+127627,False,ruim,False,nuvem ou imagem inadequada
+127628,False,ruim,False,nuvem ou imagem inadequada
+127629,False,ruim,False,nuvem ou imagem inadequada
+127630,False,ruim,False,nuvem ou imagem inadequada
+127631,False,ruim,False,nuvem ou imagem inadequada
+127632,False,ruim,False,nuvem ou imagem inadequada
+127633,False,ruim,False,nuvem ou imagem inadequada
+127634,False,ruim,False,nuvem ou imagem inadequada
+127635,False,ruim,False,nuvem ou imagem inadequada
+127636,False,ruim,False,nuvem ou imagem inadequada
+127637,False,ruim,False,nuvem ou imagem inadequada
+127638,False,ruim,False,nuvem ou imagem inadequada
+127639,False,ruim,False,nuvem ou imagem inadequada
+127640,False,ruim,False,nuvem ou imagem inadequada
+127641,False,ruim,False,nuvem ou imagem inadequada
+127642,False,ruim,False,nuvem ou imagem inadequada
+127643,False,ruim,False,nuvem ou imagem inadequada
+127644,False,ruim,False,nuvem ou imagem inadequada
+127645,False,ruim,False,nuvem ou imagem inadequada
+127646,False,ruim,False,nuvem ou imagem inadequada
+127647,False,ruim,False,nuvem ou imagem inadequada
+127648,False,ruim,False,nuvem ou imagem inadequada
+127649,False,ruim,False,nuvem ou imagem inadequada
+127650,False,ruim,False,nuvem ou imagem inadequada
+128061,False,boa,True,sem banco
+128062,False,ruim,False,nuvem ou imagem inadequada
+128063,False,ruim,False,nuvem ou imagem inadequada
+128064,False,ruim,False,nuvem ou imagem inadequada
+128065,False,ruim,False,nuvem ou imagem inadequada
+128066,False,ruim,False,nuvem ou imagem inadequada
+128067,False,ruim,False,nuvem ou imagem inadequada
+128068,False,ruim,False,nuvem ou imagem inadequada
+128069,False,ruim,False,nuvem ou imagem inadequada
+128070,False,ruim,False,nuvem ou imagem inadequada
+128071,False,ruim,False,nuvem ou imagem inadequada
+128072,False,ruim,False,nuvem ou imagem inadequada
+128073,False,ruim,False,nuvem ou imagem inadequada
+128074,False,ruim,False,nuvem ou imagem inadequada
+128075,False,ruim,False,nuvem ou imagem inadequada
+128076,False,ruim,False,nuvem ou imagem inadequada
+128077,False,ruim,False,nuvem ou imagem inadequada
+128078,False,ruim,False,nuvem ou imagem inadequada
+128079,False,ruim,False,nuvem ou imagem inadequada
+128080,False,ruim,False,nuvem ou imagem inadequada
+128081,False,ruim,False,nuvem ou imagem inadequada
+128082,False,ruim,False,nuvem ou imagem inadequada
+128083,False,ruim,False,nuvem ou imagem inadequada
+128084,False,ruim,False,nuvem ou imagem inadequada
+128085,False,ruim,False,nuvem ou imagem inadequada
+128086,False,ruim,False,nuvem ou imagem inadequada
+128087,False,ruim,False,nuvem ou imagem inadequada
+128088,False,ruim,False,nuvem ou imagem inadequada
+128089,False,ruim,False,nuvem ou imagem inadequada
+128090,False,ruim,False,nuvem ou imagem inadequada
+128091,False,ruim,False,nuvem ou imagem inadequada
+128092,False,ruim,False,nuvem ou imagem inadequada
+128093,False,ruim,False,nuvem ou imagem inadequada
+128500,False,boa,True,sem banco
+128501,False,ruim,False,nuvem ou imagem inadequada
+128502,False,ruim,False,nuvem ou imagem inadequada
+128503,False,ruim,False,nuvem ou imagem inadequada
+128504,False,ruim,False,nuvem ou imagem inadequada
+128507,False,ruim,False,nuvem ou imagem inadequada
+128508,False,ruim,False,nuvem ou imagem inadequada
+128509,False,ruim,False,nuvem ou imagem inadequada
+128510,False,ruim,False,nuvem ou imagem inadequada
+128511,False,ruim,False,nuvem ou imagem inadequada
+128512,False,ruim,False,nuvem ou imagem inadequada
+128513,False,ruim,False,nuvem ou imagem inadequada
+128514,False,ruim,False,nuvem ou imagem inadequada
+128515,False,ruim,False,nuvem ou imagem inadequada
+128516,False,ruim,False,nuvem ou imagem inadequada
+128517,False,ruim,False,nuvem ou imagem inadequada
+128518,False,ruim,False,nuvem ou imagem inadequada
+128519,False,ruim,False,nuvem ou imagem inadequada
+128520,False,ruim,False,nuvem ou imagem inadequada
+128521,False,ruim,False,nuvem ou imagem inadequada
+128522,False,ruim,False,nuvem ou imagem inadequada
+128523,False,ruim,False,nuvem ou imagem inadequada
+128524,False,ruim,False,nuvem ou imagem inadequada
+128525,False,ruim,False,nuvem ou imagem inadequada
+128526,False,ruim,False,nuvem ou imagem inadequada
+128527,False,ruim,False,nuvem ou imagem inadequada
+128528,False,ruim,False,nuvem ou imagem inadequada
+128529,False,ruim,False,nuvem ou imagem inadequada
+128530,False,ruim,False,nuvem ou imagem inadequada
+128531,False,ruim,False,nuvem ou imagem inadequada
+128532,False,ruim,False,nuvem ou imagem inadequada
+128533,False,ruim,False,nuvem ou imagem inadequada
+128534,False,ruim,False,nuvem ou imagem inadequada
+128535,False,ruim,False,nuvem ou imagem inadequada
+128536,False,ruim,False,nuvem ou imagem inadequada
+128537,False,ruim,False,nuvem ou imagem inadequada
+128538,True,boa,True,banco evidente
+128933,False,boa,True,sem banco
+128934,False,boa,True,sem banco
+128936,False,boa,True,sem banco
+128937,False,boa,True,sem banco
+128938,False,boa,True,sem banco
+128939,False,boa,True,sem banco
+128940,False,boa,True,sem banco
+128942,False,boa,True,sem banco
+128943,False,boa,True,sem banco
+128944,True,boa,True,banco evidente
+128945,False,ruim,False,nuvem ou imagem inadequada
+128946,False,ruim,False,nuvem ou imagem inadequada
+128947,False,ruim,False,nuvem ou imagem inadequada
+128948,False,ruim,False,nuvem ou imagem inadequada
+128949,False,ruim,False,nuvem ou imagem inadequada
+128950,False,ruim,False,nuvem ou imagem inadequada
+128951,False,ruim,False,nuvem ou imagem inadequada
+128952,False,ruim,False,nuvem ou imagem inadequada
+128953,False,ruim,False,nuvem ou imagem inadequada
+128954,False,ruim,False,nuvem ou imagem inadequada
+128955,False,ruim,False,nuvem ou imagem inadequada
+128956,False,ruim,False,nuvem ou imagem inadequada
+128957,False,ruim,False,nuvem ou imagem inadequada
+128958,False,ruim,False,nuvem ou imagem inadequada
+128959,False,ruim,False,nuvem ou imagem inadequada
+128960,False,ruim,False,nuvem ou imagem inadequada
+128961,False,ruim,False,nuvem ou imagem inadequada
+128962,False,ruim,False,nuvem ou imagem inadequada
+128963,False,ruim,False,nuvem ou imagem inadequada
+128964,False,ruim,False,nuvem ou imagem inadequada
+128965,False,ruim,False,nuvem ou imagem inadequada
+128966,False,ruim,False,nuvem ou imagem inadequada
+128967,False,ruim,False,nuvem ou imagem inadequada
+128968,False,ruim,False,nuvem ou imagem inadequada
+128969,False,ruim,False,nuvem ou imagem inadequada
+128970,False,ruim,False,nuvem ou imagem inadequada
+128971,False,ruim,False,nuvem ou imagem inadequada
+128972,False,ruim,False,nuvem ou imagem inadequada
+128973,False,ruim,False,nuvem ou imagem inadequada
+128974,False,ruim,False,nuvem ou imagem inadequada
+128975,False,ruim,False,nuvem ou imagem inadequada
+128976,False,ruim,False,nuvem ou imagem inadequada
+128977,False,ruim,False,nuvem ou imagem inadequada
+128978,False,ruim,False,nuvem ou imagem inadequada
+128979,False,ruim,False,nuvem ou imagem inadequada
+128980,False,boa,True,sem banco
+128981,False,ruim,False,nuvem ou imagem inadequada
+128982,False,ruim,False,nuvem ou imagem inadequada
+128983,False,ruim,False,nuvem ou imagem inadequada
+129377,False,ruim,False,nuvem ou imagem inadequada
+129378,False,ruim,False,nuvem ou imagem inadequada
+129379,False,ruim,False,nuvem ou imagem inadequada
+129380,False,ruim,False,nuvem ou imagem inadequada
+129381,False,ruim,False,nuvem ou imagem inadequada
+129382,False,ruim,False,nuvem ou imagem inadequada
+129383,False,ruim,False,nuvem ou imagem inadequada
+129384,False,ruim,False,nuvem ou imagem inadequada
+129385,False,ruim,False,nuvem ou imagem inadequada
+129386,False,ruim,False,nuvem ou imagem inadequada
+129387,False,ruim,False,nuvem ou imagem inadequada
+129388,False,ruim,False,nuvem ou imagem inadequada
+129389,False,ruim,False,nuvem ou imagem inadequada
+129390,False,ruim,False,nuvem ou imagem inadequada
+129391,False,ruim,False,nuvem ou imagem inadequada
+129392,False,ruim,False,nuvem ou imagem inadequada
+129393,False,ruim,False,nuvem ou imagem inadequada
+129394,False,ruim,False,nuvem ou imagem inadequada
+129395,False,ruim,False,nuvem ou imagem inadequada
+129396,False,ruim,False,nuvem ou imagem inadequada
+129397,False,ruim,False,nuvem ou imagem inadequada
+129398,False,ruim,False,nuvem ou imagem inadequada
+129399,False,ruim,False,nuvem ou imagem inadequada
+129400,False,ruim,False,nuvem ou imagem inadequada
+129401,False,ruim,False,nuvem ou imagem inadequada
+129402,False,ruim,False,nuvem ou imagem inadequada
+129403,False,ruim,False,nuvem ou imagem inadequada
+129404,False,ruim,False,nuvem ou imagem inadequada
+129405,False,ruim,False,nuvem ou imagem inadequada
+129406,False,ruim,False,nuvem ou imagem inadequada
+129407,False,ruim,False,nuvem ou imagem inadequada
+129408,False,ruim,False,nuvem ou imagem inadequada
+129409,False,ruim,False,nuvem ou imagem inadequada
+129410,False,ruim,False,nuvem ou imagem inadequada
+129411,False,ruim,False,nuvem ou imagem inadequada
+129412,False,ruim,False,nuvem ou imagem inadequada
+129413,False,ruim,False,nuvem ou imagem inadequada
+129414,False,ruim,False,nuvem ou imagem inadequada
+129415,False,ruim,False,nuvem ou imagem inadequada
+129416,False,ruim,False,nuvem ou imagem inadequada
+129417,False,ruim,False,nuvem ou imagem inadequada
+129418,False,ruim,False,nuvem ou imagem inadequada
+129419,False,ruim,False,nuvem ou imagem inadequada
+129420,False,ruim,False,nuvem ou imagem inadequada
+129821,False,ruim,False,nuvem ou imagem inadequada
+129822,False,ruim,False,nuvem ou imagem inadequada
+129823,False,ruim,False,nuvem ou imagem inadequada
+129824,False,ruim,False,nuvem ou imagem inadequada
+129825,False,ruim,False,nuvem ou imagem inadequada
+129826,False,ruim,False,nuvem ou imagem inadequada
+129827,False,ruim,False,nuvem ou imagem inadequada
+129828,False,ruim,False,nuvem ou imagem inadequada
+129829,False,ruim,False,nuvem ou imagem inadequada
+129830,False,ruim,False,nuvem ou imagem inadequada
+129831,False,ruim,False,nuvem ou imagem inadequada
+129832,False,ruim,False,nuvem ou imagem inadequada
+129833,False,ruim,False,nuvem ou imagem inadequada
+129834,False,ruim,False,nuvem ou imagem inadequada
+129835,False,ruim,False,nuvem ou imagem inadequada
+129836,False,ruim,False,nuvem ou imagem inadequada
+129837,False,ruim,False,nuvem ou imagem inadequada
+129838,False,ruim,False,nuvem ou imagem inadequada
+129839,False,ruim,False,nuvem ou imagem inadequada
+129840,False,ruim,False,nuvem ou imagem inadequada
+129841,False,ruim,False,nuvem ou imagem inadequada
+129842,False,ruim,False,nuvem ou imagem inadequada
+129843,False,ruim,False,nuvem ou imagem inadequada
+129844,False,ruim,False,nuvem ou imagem inadequada
+129845,False,ruim,False,nuvem ou imagem inadequada
+129846,False,ruim,False,nuvem ou imagem inadequada
+129847,False,ruim,False,nuvem ou imagem inadequada
+129848,False,ruim,False,nuvem ou imagem inadequada
+129849,False,ruim,False,nuvem ou imagem inadequada
+129850,False,ruim,False,nuvem ou imagem inadequada
+129851,False,ruim,False,nuvem ou imagem inadequada
+129852,False,ruim,False,nuvem ou imagem inadequada
+129853,False,ruim,False,nuvem ou imagem inadequada
+129854,False,ruim,False,nuvem ou imagem inadequada
+129855,False,ruim,False,nuvem ou imagem inadequada
+129856,False,ruim,False,nuvem ou imagem inadequada
+129857,False,ruim,False,nuvem ou imagem inadequada
+129858,False,ruim,False,nuvem ou imagem inadequada
+129859,False,ruim,False,nuvem ou imagem inadequada
+129860,False,ruim,False,nuvem ou imagem inadequada
+129861,False,ruim,False,nuvem ou imagem inadequada
+129862,False,ruim,False,nuvem ou imagem inadequada
+129863,False,ruim,False,nuvem ou imagem inadequada
+129864,False,ruim,False,nuvem ou imagem inadequada
+129865,False,ruim,False,nuvem ou imagem inadequada
+130264,False,boa,True,sem banco
+130265,False,ruim,False,nuvem ou imagem inadequada
+130266,False,ruim,False,nuvem ou imagem inadequada
+130267,False,ruim,False,nuvem ou imagem inadequada
+130268,False,ruim,False,nuvem ou imagem inadequada
+130269,False,ruim,False,nuvem ou imagem inadequada
+130270,False,ruim,False,nuvem ou imagem inadequada
+130271,False,ruim,False,nuvem ou imagem inadequada
+130272,False,ruim,False,nuvem ou imagem inadequada
+130273,False,ruim,False,nuvem ou imagem inadequada
+130274,False,ruim,False,nuvem ou imagem inadequada
+130275,False,ruim,False,nuvem ou imagem inadequada
+130276,False,ruim,False,nuvem ou imagem inadequada
+130277,False,ruim,False,nuvem ou imagem inadequada
+130278,False,ruim,False,nuvem ou imagem inadequada
+130279,False,ruim,False,nuvem ou imagem inadequada
+130280,False,ruim,False,nuvem ou imagem inadequada
+130281,False,ruim,False,nuvem ou imagem inadequada
+130282,False,ruim,False,nuvem ou imagem inadequada
+130283,False,ruim,False,nuvem ou imagem inadequada
+130284,False,ruim,False,nuvem ou imagem inadequada
+130285,False,ruim,False,nuvem ou imagem inadequada
+130286,False,ruim,False,nuvem ou imagem inadequada
+130287,False,ruim,False,nuvem ou imagem inadequada
+130288,False,ruim,False,nuvem ou imagem inadequada
+130289,False,ruim,False,nuvem ou imagem inadequada
+130290,False,ruim,False,nuvem ou imagem inadequada
+130291,False,ruim,False,nuvem ou imagem inadequada
+130292,False,ruim,False,nuvem ou imagem inadequada
+130293,False,ruim,False,nuvem ou imagem inadequada
+130294,False,ruim,False,nuvem ou imagem inadequada
+130295,False,ruim,False,nuvem ou imagem inadequada
+130296,False,ruim,False,nuvem ou imagem inadequada
+130297,False,ruim,False,nuvem ou imagem inadequada
+130298,False,ruim,False,nuvem ou imagem inadequada
+130299,False,ruim,False,nuvem ou imagem inadequada
+130300,False,ruim,False,nuvem ou imagem inadequada
+130301,False,ruim,False,nuvem ou imagem inadequada
+130302,False,ruim,False,nuvem ou imagem inadequada
+130303,False,ruim,False,nuvem ou imagem inadequada
+130304,False,ruim,False,nuvem ou imagem inadequada
+130305,False,ruim,False,nuvem ou imagem inadequada
+130306,False,boa,True,sem banco
+130707,False,boa,True,sem banco
+130708,False,ruim,False,nuvem ou imagem inadequada
+130709,False,ruim,False,nuvem ou imagem inadequada
+130710,False,ruim,False,nuvem ou imagem inadequada
+130711,False,ruim,False,nuvem ou imagem inadequada
+130712,False,ruim,False,nuvem ou imagem inadequada
+130713,False,ruim,False,nuvem ou imagem inadequada
+130714,False,ruim,False,nuvem ou imagem inadequada
+130715,False,ruim,False,nuvem ou imagem inadequada
+130716,False,ruim,False,nuvem ou imagem inadequada
+130717,False,ruim,False,nuvem ou imagem inadequada
+130718,False,ruim,False,nuvem ou imagem inadequada
+130719,False,ruim,False,nuvem ou imagem inadequada
+130720,False,ruim,False,nuvem ou imagem inadequada
+130721,False,ruim,False,nuvem ou imagem inadequada
+130722,False,ruim,False,nuvem ou imagem inadequada
+130723,False,ruim,False,nuvem ou imagem inadequada
+130724,False,ruim,False,nuvem ou imagem inadequada
+130725,False,ruim,False,nuvem ou imagem inadequada
+130726,False,ruim,False,nuvem ou imagem inadequada
+130727,False,ruim,False,nuvem ou imagem inadequada
+130728,False,ruim,False,nuvem ou imagem inadequada
+130729,False,ruim,False,nuvem ou imagem inadequada
+130730,False,ruim,False,nuvem ou imagem inadequada
+130731,False,ruim,False,nuvem ou imagem inadequada
+130732,False,ruim,False,nuvem ou imagem inadequada
+130733,False,ruim,False,nuvem ou imagem inadequada
+130734,False,ruim,False,nuvem ou imagem inadequada
+130735,False,ruim,False,nuvem ou imagem inadequada
+130736,False,ruim,False,nuvem ou imagem inadequada
+130737,False,ruim,False,nuvem ou imagem inadequada
+130738,False,ruim,False,nuvem ou imagem inadequada
+130739,False,ruim,False,nuvem ou imagem inadequada
+130740,False,ruim,False,nuvem ou imagem inadequada
+130741,False,ruim,False,nuvem ou imagem inadequada
+130742,False,ruim,False,nuvem ou imagem inadequada
+130743,False,ruim,False,nuvem ou imagem inadequada
+130744,False,ruim,False,nuvem ou imagem inadequada
+130745,False,ruim,False,nuvem ou imagem inadequada
+130746,False,ruim,False,nuvem ou imagem inadequada
+130747,False,ruim,False,nuvem ou imagem inadequada
+130748,False,ruim,False,nuvem ou imagem inadequada
+130749,False,ruim,False,nuvem ou imagem inadequada
+130750,False,ruim,False,nuvem ou imagem inadequada
+131152,False,ruim,False,nuvem ou imagem inadequada
+131153,False,ruim,False,nuvem ou imagem inadequada
+131154,False,ruim,False,nuvem ou imagem inadequada
+131155,False,ruim,False,nuvem ou imagem inadequada
+131156,False,ruim,False,nuvem ou imagem inadequada
+131157,False,ruim,False,nuvem ou imagem inadequada
+131158,False,ruim,False,nuvem ou imagem inadequada
+131159,False,ruim,False,nuvem ou imagem inadequada
+131160,False,ruim,False,nuvem ou imagem inadequada
+131161,False,ruim,False,nuvem ou imagem inadequada
+131162,False,ruim,False,nuvem ou imagem inadequada
+131163,False,ruim,False,nuvem ou imagem inadequada
+131164,False,ruim,False,nuvem ou imagem inadequada
+131165,False,ruim,False,nuvem ou imagem inadequada
+131166,False,ruim,False,nuvem ou imagem inadequada
+131167,False,ruim,False,nuvem ou imagem inadequada
+131168,False,ruim,False,nuvem ou imagem inadequada
+131169,False,ruim,False,nuvem ou imagem inadequada
+131170,False,ruim,False,nuvem ou imagem inadequada
+131171,False,ruim,False,nuvem ou imagem inadequada
+131172,False,ruim,False,nuvem ou imagem inadequada
+131173,False,ruim,False,nuvem ou imagem inadequada
+131174,False,ruim,False,nuvem ou imagem inadequada
+131175,False,ruim,False,nuvem ou imagem inadequada
+131176,False,ruim,False,nuvem ou imagem inadequada
+131177,False,ruim,False,nuvem ou imagem inadequada
+131178,False,ruim,False,nuvem ou imagem inadequada
+131179,False,ruim,False,nuvem ou imagem inadequada
+131180,False,ruim,False,nuvem ou imagem inadequada
+131181,False,ruim,False,nuvem ou imagem inadequada
+131182,False,ruim,False,nuvem ou imagem inadequada
+131183,False,ruim,False,nuvem ou imagem inadequada
+131184,False,ruim,False,nuvem ou imagem inadequada
+131185,False,ruim,False,nuvem ou imagem inadequada
+131186,False,ruim,False,nuvem ou imagem inadequada
+131187,False,ruim,False,nuvem ou imagem inadequada
+131188,False,ruim,False,nuvem ou imagem inadequada
+131189,False,ruim,False,nuvem ou imagem inadequada
+131190,False,ruim,False,nuvem ou imagem inadequada
+131191,False,ruim,False,nuvem ou imagem inadequada
+131192,False,ruim,False,nuvem ou imagem inadequada
+131193,False,ruim,False,nuvem ou imagem inadequada
+131195,False,ruim,False,nuvem ou imagem inadequada
+131196,False,ruim,False,nuvem ou imagem inadequada
+131596,False,ruim,False,nuvem ou imagem inadequada
+131597,False,ruim,False,nuvem ou imagem inadequada
+131598,False,ruim,False,nuvem ou imagem inadequada
+131599,False,ruim,False,nuvem ou imagem inadequada
+131600,False,ruim,False,nuvem ou imagem inadequada
+131601,False,ruim,False,nuvem ou imagem inadequada
+131602,False,ruim,False,nuvem ou imagem inadequada
+131603,False,ruim,False,nuvem ou imagem inadequada
+131604,False,ruim,False,nuvem ou imagem inadequada
+131605,False,ruim,False,nuvem ou imagem inadequada
+131606,False,ruim,False,nuvem ou imagem inadequada
+131607,False,ruim,False,nuvem ou imagem inadequada
+131608,False,ruim,False,nuvem ou imagem inadequada
+131609,False,ruim,False,nuvem ou imagem inadequada
+131610,False,ruim,False,nuvem ou imagem inadequada
+131611,False,ruim,False,nuvem ou imagem inadequada
+131612,False,ruim,False,nuvem ou imagem inadequada
+131613,False,ruim,False,nuvem ou imagem inadequada
+131614,False,ruim,False,nuvem ou imagem inadequada
+131615,False,ruim,False,nuvem ou imagem inadequada
+131616,False,ruim,False,nuvem ou imagem inadequada
+131617,False,ruim,False,nuvem ou imagem inadequada
+131618,False,ruim,False,nuvem ou imagem inadequada
+131619,False,ruim,False,nuvem ou imagem inadequada
+131620,False,ruim,False,nuvem ou imagem inadequada
+131621,False,ruim,False,nuvem ou imagem inadequada
+131622,False,ruim,False,nuvem ou imagem inadequada
+131623,False,ruim,False,nuvem ou imagem inadequada
+131624,False,ruim,False,nuvem ou imagem inadequada
+131625,False,ruim,False,nuvem ou imagem inadequada
+131626,False,ruim,False,nuvem ou imagem inadequada
+131627,False,ruim,False,nuvem ou imagem inadequada
+131628,False,ruim,False,nuvem ou imagem inadequada
+131629,False,ruim,False,nuvem ou imagem inadequada
+131630,False,ruim,False,nuvem ou imagem inadequada
+131631,False,ruim,False,nuvem ou imagem inadequada
+131632,False,ruim,False,nuvem ou imagem inadequada
+131633,False,ruim,False,nuvem ou imagem inadequada
+131634,False,ruim,False,nuvem ou imagem inadequada
+131635,False,ruim,False,nuvem ou imagem inadequada
+131636,False,ruim,False,nuvem ou imagem inadequada
+131637,False,ruim,False,nuvem ou imagem inadequada
+132038,False,ruim,False,nuvem ou imagem inadequada
+132039,False,ruim,False,nuvem ou imagem inadequada
+132040,False,ruim,False,nuvem ou imagem inadequada
+132041,False,ruim,False,nuvem ou imagem inadequada
+132042,False,ruim,False,nuvem ou imagem inadequada
+132043,False,ruim,False,nuvem ou imagem inadequada
+132044,False,ruim,False,nuvem ou imagem inadequada
+132045,False,ruim,False,nuvem ou imagem inadequada
+132046,False,ruim,False,nuvem ou imagem inadequada
+132047,False,ruim,False,nuvem ou imagem inadequada
+132048,False,ruim,False,nuvem ou imagem inadequada
+132049,False,ruim,False,nuvem ou imagem inadequada
+132050,False,ruim,False,nuvem ou imagem inadequada
+132051,False,ruim,False,nuvem ou imagem inadequada
+132052,False,ruim,False,nuvem ou imagem inadequada
+132053,False,ruim,False,nuvem ou imagem inadequada
+132054,False,ruim,False,nuvem ou imagem inadequada
+132055,False,ruim,False,nuvem ou imagem inadequada
+132056,False,ruim,False,nuvem ou imagem inadequada
+132057,False,ruim,False,nuvem ou imagem inadequada
+132058,False,ruim,False,nuvem ou imagem inadequada
+132059,False,ruim,False,nuvem ou imagem inadequada
+132060,False,ruim,False,nuvem ou imagem inadequada
+132061,False,ruim,False,nuvem ou imagem inadequada
+132062,False,ruim,False,nuvem ou imagem inadequada
+132063,False,ruim,False,nuvem ou imagem inadequada
+132064,False,ruim,False,nuvem ou imagem inadequada
+132065,False,ruim,False,nuvem ou imagem inadequada
+132066,False,ruim,False,nuvem ou imagem inadequada
+132067,False,ruim,False,nuvem ou imagem inadequada
+132068,False,ruim,False,nuvem ou imagem inadequada
+132069,False,ruim,False,nuvem ou imagem inadequada
+132070,False,ruim,False,nuvem ou imagem inadequada
+132071,False,ruim,False,nuvem ou imagem inadequada
+132072,False,ruim,False,nuvem ou imagem inadequada
+132073,False,ruim,False,nuvem ou imagem inadequada
+132074,False,ruim,False,nuvem ou imagem inadequada
+132075,False,ruim,False,nuvem ou imagem inadequada
+132076,False,ruim,False,nuvem ou imagem inadequada
+132077,False,ruim,False,nuvem ou imagem inadequada
+132078,False,ruim,False,nuvem ou imagem inadequada
+132079,False,ruim,False,nuvem ou imagem inadequada
+132080,False,ruim,False,nuvem ou imagem inadequada
+132484,False,ruim,False,nuvem ou imagem inadequada
+132485,False,ruim,False,nuvem ou imagem inadequada
+132486,False,ruim,False,nuvem ou imagem inadequada
+132487,False,ruim,False,nuvem ou imagem inadequada
+132488,False,ruim,False,nuvem ou imagem inadequada
+132489,False,ruim,False,nuvem ou imagem inadequada
+132490,False,ruim,False,nuvem ou imagem inadequada
+132491,False,ruim,False,nuvem ou imagem inadequada
+132492,False,ruim,False,nuvem ou imagem inadequada
+132493,False,ruim,False,nuvem ou imagem inadequada
+132494,False,ruim,False,nuvem ou imagem inadequada
+132495,False,ruim,False,nuvem ou imagem inadequada
+132496,False,ruim,False,nuvem ou imagem inadequada
+132497,False,ruim,False,nuvem ou imagem inadequada
+132498,False,ruim,False,nuvem ou imagem inadequada
+132499,False,ruim,False,nuvem ou imagem inadequada
+132500,False,ruim,False,nuvem ou imagem inadequada
+132501,False,ruim,False,nuvem ou imagem inadequada
+132502,False,ruim,False,nuvem ou imagem inadequada
+132503,False,ruim,False,nuvem ou imagem inadequada
+132504,False,ruim,False,nuvem ou imagem inadequada
+132505,False,ruim,False,nuvem ou imagem inadequada
+132506,False,ruim,False,nuvem ou imagem inadequada
+132507,False,ruim,False,nuvem ou imagem inadequada
+132508,False,ruim,False,nuvem ou imagem inadequada
+132509,False,ruim,False,nuvem ou imagem inadequada
+132510,False,ruim,False,nuvem ou imagem inadequada
+132511,False,ruim,False,nuvem ou imagem inadequada
+132512,False,ruim,False,nuvem ou imagem inadequada
+132513,False,ruim,False,nuvem ou imagem inadequada
+132514,False,ruim,False,nuvem ou imagem inadequada
+132515,False,ruim,False,nuvem ou imagem inadequada
+132516,False,ruim,False,nuvem ou imagem inadequada
+132517,False,ruim,False,nuvem ou imagem inadequada
+132518,False,ruim,False,nuvem ou imagem inadequada
+132519,False,ruim,False,nuvem ou imagem inadequada
+132520,False,ruim,False,nuvem ou imagem inadequada
+132521,False,ruim,False,nuvem ou imagem inadequada
+132522,False,ruim,False,nuvem ou imagem inadequada
+132523,False,ruim,False,nuvem ou imagem inadequada
+132524,False,ruim,False,nuvem ou imagem inadequada
+132929,False,boa,True,sem banco
+132930,False,ruim,False,nuvem ou imagem inadequada
+132931,False,ruim,False,nuvem ou imagem inadequada
+132932,False,ruim,False,nuvem ou imagem inadequada
+132933,False,ruim,False,nuvem ou imagem inadequada
+132934,False,ruim,False,nuvem ou imagem inadequada
+132935,False,ruim,False,nuvem ou imagem inadequada
+132936,False,ruim,False,nuvem ou imagem inadequada
+132937,False,ruim,False,nuvem ou imagem inadequada
+132938,False,ruim,False,nuvem ou imagem inadequada
+132939,False,ruim,False,nuvem ou imagem inadequada
+132940,False,ruim,False,nuvem ou imagem inadequada
+132941,False,ruim,False,nuvem ou imagem inadequada
+132942,False,ruim,False,nuvem ou imagem inadequada
+132943,False,ruim,False,nuvem ou imagem inadequada
+132944,False,ruim,False,nuvem ou imagem inadequada
+132945,False,ruim,False,nuvem ou imagem inadequada
+132946,False,ruim,False,nuvem ou imagem inadequada
+132947,False,ruim,False,nuvem ou imagem inadequada
+132948,False,ruim,False,nuvem ou imagem inadequada
+132949,False,ruim,False,nuvem ou imagem inadequada
+132950,False,ruim,False,nuvem ou imagem inadequada
+132951,False,ruim,False,nuvem ou imagem inadequada
+132952,False,ruim,False,nuvem ou imagem inadequada
+132953,False,ruim,False,nuvem ou imagem inadequada
+132954,False,ruim,False,nuvem ou imagem inadequada
+132955,False,ruim,False,nuvem ou imagem inadequada
+132956,False,ruim,False,nuvem ou imagem inadequada
+132957,False,ruim,False,nuvem ou imagem inadequada
+132958,False,ruim,False,nuvem ou imagem inadequada
+132959,False,ruim,False,nuvem ou imagem inadequada
+132960,False,ruim,False,nuvem ou imagem inadequada
+132961,False,ruim,False,nuvem ou imagem inadequada
+132962,False,ruim,False,nuvem ou imagem inadequada
+132963,False,ruim,False,nuvem ou imagem inadequada
+132964,False,ruim,False,nuvem ou imagem inadequada
+132965,False,ruim,False,nuvem ou imagem inadequada
+133374,False,ruim,False,nuvem ou imagem inadequada
+133375,False,ruim,False,nuvem ou imagem inadequada
+133376,False,ruim,False,nuvem ou imagem inadequada
+133377,False,ruim,False,nuvem ou imagem inadequada
+133378,False,ruim,False,nuvem ou imagem inadequada
+133379,False,ruim,False,nuvem ou imagem inadequada
+133380,False,ruim,False,nuvem ou imagem inadequada
+133381,False,ruim,False,nuvem ou imagem inadequada
+133382,False,ruim,False,nuvem ou imagem inadequada
+133383,False,ruim,False,nuvem ou imagem inadequada
+133384,False,ruim,False,nuvem ou imagem inadequada
+133385,False,ruim,False,nuvem ou imagem inadequada
+133386,False,ruim,False,nuvem ou imagem inadequada
+133387,False,ruim,False,nuvem ou imagem inadequada
+133388,False,ruim,False,nuvem ou imagem inadequada
+133389,False,ruim,False,nuvem ou imagem inadequada
+133390,False,ruim,False,nuvem ou imagem inadequada
+133391,False,ruim,False,nuvem ou imagem inadequada
+133392,False,ruim,False,nuvem ou imagem inadequada
+133393,False,ruim,False,nuvem ou imagem inadequada
+133394,False,ruim,False,nuvem ou imagem inadequada
+133395,False,ruim,False,nuvem ou imagem inadequada
+133396,False,ruim,False,nuvem ou imagem inadequada
+133397,False,ruim,False,nuvem ou imagem inadequada
+133398,False,ruim,False,nuvem ou imagem inadequada
+133399,False,ruim,False,nuvem ou imagem inadequada
+133400,False,ruim,False,nuvem ou imagem inadequada
+133401,False,ruim,False,nuvem ou imagem inadequada
+133402,False,ruim,False,nuvem ou imagem inadequada
+133403,False,ruim,False,nuvem ou imagem inadequada
+133404,False,ruim,False,nuvem ou imagem inadequada
+133405,False,ruim,False,nuvem ou imagem inadequada
+133406,False,ruim,False,nuvem ou imagem inadequada
+133407,False,ruim,False,nuvem ou imagem inadequada
+133408,False,ruim,False,nuvem ou imagem inadequada
+133819,False,ruim,False,nuvem ou imagem inadequada
+133820,False,ruim,False,nuvem ou imagem inadequada
+133821,False,ruim,False,nuvem ou imagem inadequada
+133822,False,ruim,False,nuvem ou imagem inadequada
+133823,False,ruim,False,nuvem ou imagem inadequada
+133824,False,ruim,False,nuvem ou imagem inadequada
+133825,False,ruim,False,nuvem ou imagem inadequada
+133826,False,ruim,False,nuvem ou imagem inadequada
+133827,False,ruim,False,nuvem ou imagem inadequada
+133828,False,ruim,False,nuvem ou imagem inadequada
+133829,False,ruim,False,nuvem ou imagem inadequada
+133830,False,ruim,False,nuvem ou imagem inadequada
+133831,False,ruim,False,nuvem ou imagem inadequada
+133832,False,ruim,False,nuvem ou imagem inadequada
+133833,False,ruim,False,nuvem ou imagem inadequada
+133834,False,ruim,False,nuvem ou imagem inadequada
+133835,False,ruim,False,nuvem ou imagem inadequada
+133836,False,ruim,False,nuvem ou imagem inadequada
+133837,False,ruim,False,nuvem ou imagem inadequada
+133838,False,ruim,False,nuvem ou imagem inadequada
+133839,False,ruim,False,nuvem ou imagem inadequada
+133840,False,ruim,False,nuvem ou imagem inadequada
+133841,False,ruim,False,nuvem ou imagem inadequada
+133842,False,ruim,False,nuvem ou imagem inadequada
+133843,False,ruim,False,nuvem ou imagem inadequada
+133844,False,ruim,False,nuvem ou imagem inadequada
+133845,False,ruim,False,nuvem ou imagem inadequada
+133846,False,ruim,False,nuvem ou imagem inadequada
+133847,False,ruim,False,nuvem ou imagem inadequada
+133848,False,ruim,False,nuvem ou imagem inadequada
+133849,False,ruim,False,nuvem ou imagem inadequada
+133850,False,ruim,False,nuvem ou imagem inadequada
+133851,False,ruim,False,nuvem ou imagem inadequada
+133852,False,boa,True,sem banco
+134259,False,boa,True,sem banco
+134260,False,boa,True,sem banco
+134261,False,boa,True,sem banco
+134262,False,ruim,False,nuvem ou imagem inadequada
+134263,False,ruim,False,nuvem ou imagem inadequada
+134264,False,ruim,False,nuvem ou imagem inadequada
+134265,False,ruim,False,nuvem ou imagem inadequada
+134266,False,ruim,False,nuvem ou imagem inadequada
+134267,False,ruim,False,nuvem ou imagem inadequada
+134268,False,ruim,False,nuvem ou imagem inadequada
+134269,False,ruim,False,nuvem ou imagem inadequada
+134270,False,ruim,False,nuvem ou imagem inadequada
+134271,False,ruim,False,nuvem ou imagem inadequada
+134272,False,ruim,False,nuvem ou imagem inadequada
+134273,False,ruim,False,nuvem ou imagem inadequada
+134274,False,ruim,False,nuvem ou imagem inadequada
+134275,False,ruim,False,nuvem ou imagem inadequada
+134276,False,ruim,False,nuvem ou imagem inadequada
+134277,False,ruim,False,nuvem ou imagem inadequada
+134278,False,ruim,False,nuvem ou imagem inadequada
+134279,False,ruim,False,nuvem ou imagem inadequada
+134280,False,ruim,False,nuvem ou imagem inadequada
+134281,False,ruim,False,nuvem ou imagem inadequada
+134282,False,ruim,False,nuvem ou imagem inadequada
+134283,False,ruim,False,nuvem ou imagem inadequada
+134284,False,ruim,False,nuvem ou imagem inadequada
+134285,False,ruim,False,nuvem ou imagem inadequada
+134286,False,ruim,False,nuvem ou imagem inadequada
+134287,False,ruim,False,nuvem ou imagem inadequada
+134288,False,ruim,False,nuvem ou imagem inadequada
+134289,False,ruim,False,nuvem ou imagem inadequada
+134290,False,ruim,False,nuvem ou imagem inadequada
+134291,False,ruim,False,nuvem ou imagem inadequada
+134292,False,ruim,False,nuvem ou imagem inadequada
+134293,False,ruim,False,nuvem ou imagem inadequada
+134294,False,boa,True,sem banco
+134702,False,boa,True,sem banco
+134703,False,ruim,False,nuvem ou imagem inadequada
+134704,False,ruim,False,nuvem ou imagem inadequada
+134705,False,ruim,False,nuvem ou imagem inadequada
+134706,False,ruim,False,nuvem ou imagem inadequada
+134707,False,ruim,False,nuvem ou imagem inadequada
+134708,False,ruim,False,nuvem ou imagem inadequada
+134709,False,ruim,False,nuvem ou imagem inadequada
+134710,False,ruim,False,nuvem ou imagem inadequada
+134711,False,ruim,False,nuvem ou imagem inadequada
+134712,False,ruim,False,nuvem ou imagem inadequada
+134713,False,ruim,False,nuvem ou imagem inadequada
+134714,False,ruim,False,nuvem ou imagem inadequada
+134715,False,ruim,False,nuvem ou imagem inadequada
+134716,False,ruim,False,nuvem ou imagem inadequada
+134717,False,ruim,False,nuvem ou imagem inadequada
+134718,False,ruim,False,3
+134719,False,ruim,False,nuvem ou imagem inadequada
+134720,False,ruim,False,nuvem ou imagem inadequada
+134721,False,ruim,False,nuvem ou imagem inadequada
+134722,False,ruim,False,nuvem ou imagem inadequada
+134723,False,ruim,False,nuvem ou imagem inadequada
+134724,False,ruim,False,nuvem ou imagem inadequada
+134725,False,ruim,False,nuvem ou imagem inadequada
+134726,False,ruim,False,nuvem ou imagem inadequada
+134727,False,ruim,False,nuvem ou imagem inadequada
+134728,False,ruim,False,nuvem ou imagem inadequada
+134729,False,ruim,False,nuvem ou imagem inadequada
+134730,False,ruim,False,nuvem ou imagem inadequada
+134731,False,ruim,False,nuvem ou imagem inadequada
+134732,False,ruim,False,nuvem ou imagem inadequada
+134733,False,ruim,False,nuvem ou imagem inadequada
+134734,False,ruim,False,nuvem ou imagem inadequada
+134735,False,ruim,False,nuvem ou imagem inadequada
+134736,False,ruim,False,nuvem ou imagem inadequada
+134737,False,ruim,False,nuvem ou imagem inadequada
+134738,False,ruim,False,nuvem ou imagem inadequada
+135143,False,ruim,False,nuvem ou imagem inadequada
+135144,False,ruim,False,nuvem ou imagem inadequada
+135145,False,ruim,False,nuvem ou imagem inadequada
+135146,False,ruim,False,nuvem ou imagem inadequada
+135147,False,ruim,False,nuvem ou imagem inadequada
+135148,False,ruim,False,nuvem ou imagem inadequada
+135149,False,ruim,False,nuvem ou imagem inadequada
+135150,False,ruim,False,nuvem ou imagem inadequada
+135151,False,ruim,False,nuvem ou imagem inadequada
+135152,False,ruim,False,nuvem ou imagem inadequada
+135153,False,ruim,False,nuvem ou imagem inadequada
+135154,False,ruim,False,nuvem ou imagem inadequada
+135155,False,ruim,False,nuvem ou imagem inadequada
+135156,False,ruim,False,nuvem ou imagem inadequada
+135157,False,ruim,False,nuvem ou imagem inadequada
+135158,False,ruim,False,nuvem ou imagem inadequada
+135159,False,ruim,False,nuvem ou imagem inadequada
+135160,False,ruim,False,nuvem ou imagem inadequada
+135161,False,ruim,False,nuvem ou imagem inadequada
+135162,False,ruim,False,nuvem ou imagem inadequada
+135163,False,ruim,False,nuvem ou imagem inadequada
+135164,False,ruim,False,nuvem ou imagem inadequada
+135165,False,ruim,False,nuvem ou imagem inadequada
+135166,False,ruim,False,nuvem ou imagem inadequada
+135167,False,ruim,False,nuvem ou imagem inadequada
+135168,False,ruim,False,nuvem ou imagem inadequada
+135169,False,ruim,False,nuvem ou imagem inadequada
+135170,False,ruim,False,nuvem ou imagem inadequada
+135171,False,ruim,False,nuvem ou imagem inadequada
+135172,False,ruim,False,nuvem ou imagem inadequada
+135173,False,ruim,False,nuvem ou imagem inadequada
+135174,False,ruim,False,nuvem ou imagem inadequada
+135175,False,ruim,False,nuvem ou imagem inadequada
+135176,False,ruim,False,nuvem ou imagem inadequada
+135177,False,boa,True,sem banco
+135178,False,boa,True,sem banco
+135179,False,ruim,False,nuvem ou imagem inadequada
+135180,False,ruim,False,nuvem ou imagem inadequada
+135181,False,ruim,False,nuvem ou imagem inadequada
+135182,False,ruim,False,nuvem ou imagem inadequada
+135589,False,ruim,False,nuvem ou imagem inadequada
+135590,False,ruim,False,nuvem ou imagem inadequada
+135591,False,ruim,False,nuvem ou imagem inadequada
+135592,False,ruim,False,nuvem ou imagem inadequada
+135593,False,ruim,False,nuvem ou imagem inadequada
+135594,False,ruim,False,nuvem ou imagem inadequada
+135595,False,ruim,False,nuvem ou imagem inadequada
+135596,False,ruim,False,nuvem ou imagem inadequada
+135597,False,ruim,False,nuvem ou imagem inadequada
+135598,False,ruim,False,nuvem ou imagem inadequada
+135599,False,ruim,False,nuvem ou imagem inadequada
+135600,False,ruim,False,nuvem ou imagem inadequada
+135601,False,ruim,False,nuvem ou imagem inadequada
+135602,False,ruim,False,nuvem ou imagem inadequada
+135603,False,ruim,False,nuvem ou imagem inadequada
+135604,False,ruim,False,nuvem ou imagem inadequada
+135605,False,ruim,False,nuvem ou imagem inadequada
+135606,False,ruim,False,nuvem ou imagem inadequada
+135607,False,ruim,False,nuvem ou imagem inadequada
+135608,False,ruim,False,nuvem ou imagem inadequada
+135609,False,ruim,False,nuvem ou imagem inadequada
+135610,False,ruim,False,nuvem ou imagem inadequada
+135611,False,ruim,False,nuvem ou imagem inadequada
+135612,False,ruim,False,nuvem ou imagem inadequada
+135613,False,ruim,False,nuvem ou imagem inadequada
+135614,False,ruim,False,nuvem ou imagem inadequada
+135615,False,ruim,False,nuvem ou imagem inadequada
+135616,False,ruim,False,nuvem ou imagem inadequada
+135617,False,ruim,False,nuvem ou imagem inadequada
+135618,False,ruim,False,nuvem ou imagem inadequada
+135619,False,ruim,False,nuvem ou imagem inadequada
+135620,False,ruim,False,nuvem ou imagem inadequada
+135621,False,ruim,False,nuvem ou imagem inadequada
+136035,False,boa,True,sem banco
+136036,False,ruim,False,nuvem ou imagem inadequada
+136037,False,ruim,False,nuvem ou imagem inadequada
+136038,False,ruim,False,nuvem ou imagem inadequada
+136039,False,ruim,False,nuvem ou imagem inadequada
+136040,False,ruim,False,nuvem ou imagem inadequada
+136041,False,ruim,False,nuvem ou imagem inadequada
+136042,False,ruim,False,nuvem ou imagem inadequada
+136043,False,ruim,False,nuvem ou imagem inadequada
+136044,False,ruim,False,nuvem ou imagem inadequada
+136045,False,ruim,False,nuvem ou imagem inadequada
+136046,False,ruim,False,nuvem ou imagem inadequada
+136047,False,ruim,False,nuvem ou imagem inadequada
+136048,False,ruim,False,nuvem ou imagem inadequada
+136049,False,ruim,False,nuvem ou imagem inadequada
+136050,False,ruim,False,nuvem ou imagem inadequada
+136051,False,ruim,False,nuvem ou imagem inadequada
+136052,False,ruim,False,nuvem ou imagem inadequada
+136053,False,ruim,False,nuvem ou imagem inadequada
+136054,False,ruim,False,nuvem ou imagem inadequada
+136055,False,ruim,False,nuvem ou imagem inadequada
+136056,False,ruim,False,nuvem ou imagem inadequada
+136057,False,ruim,False,nuvem ou imagem inadequada
+136058,False,ruim,False,nuvem ou imagem inadequada
+136059,False,ruim,False,nuvem ou imagem inadequada
+136060,False,ruim,False,nuvem ou imagem inadequada
+136061,False,ruim,False,nuvem ou imagem inadequada
+136062,False,ruim,False,nuvem ou imagem inadequada
+136063,False,ruim,False,nuvem ou imagem inadequada
+136064,False,ruim,False,nuvem ou imagem inadequada
+136065,False,ruim,False,nuvem ou imagem inadequada
+136066,False,ruim,False,nuvem ou imagem inadequada
+136481,False,ruim,False,nuvem ou imagem inadequada
+136482,False,ruim,False,nuvem ou imagem inadequada
+136483,False,ruim,False,nuvem ou imagem inadequada
+136484,False,ruim,False,nuvem ou imagem inadequada
+136485,False,ruim,False,nuvem ou imagem inadequada
+136486,False,ruim,False,nuvem ou imagem inadequada
+136487,False,ruim,False,nuvem ou imagem inadequada
+136488,False,ruim,False,nuvem ou imagem inadequada
+136489,False,ruim,False,nuvem ou imagem inadequada
+136490,False,ruim,False,nuvem ou imagem inadequada
+136491,False,ruim,False,nuvem ou imagem inadequada
+136492,False,ruim,False,nuvem ou imagem inadequada
+136493,False,ruim,False,3
+136494,False,ruim,False,nuvem ou imagem inadequada
+136495,False,ruim,False,nuvem ou imagem inadequada
+136496,False,ruim,False,nuvem ou imagem inadequada
+136497,False,ruim,False,nuvem ou imagem inadequada
+136498,False,ruim,False,nuvem ou imagem inadequada
+136500,False,boa,True,sem banco
+136501,False,ruim,False,nuvem ou imagem inadequada
+136502,False,ruim,False,nuvem ou imagem inadequada
+136508,False,boa,True,sem banco
+136509,False,ruim,False,nuvem ou imagem inadequada
+136927,False,boa,True,sem banco
+136928,False,ruim,False,nuvem ou imagem inadequada
+136929,False,ruim,False,nuvem ou imagem inadequada
+136930,False,ruim,False,nuvem ou imagem inadequada
+136931,False,ruim,False,nuvem ou imagem inadequada
+136932,False,ruim,False,nuvem ou imagem inadequada
+136933,False,ruim,False,nuvem ou imagem inadequada
+136934,False,ruim,False,nuvem ou imagem inadequada
+136935,False,ruim,False,nuvem ou imagem inadequada
+136936,False,ruim,False,nuvem ou imagem inadequada
+136937,False,ruim,False,nuvem ou imagem inadequada
+136938,False,ruim,False,nuvem ou imagem inadequada
+136939,False,ruim,False,nuvem ou imagem inadequada
+136940,False,ruim,False,nuvem ou imagem inadequada
+136941,False,ruim,False,nuvem ou imagem inadequada
+136942,False,ruim,False,nuvem ou imagem inadequada
+136943,False,ruim,False,nuvem ou imagem inadequada
+136944,False,ruim,False,nuvem ou imagem inadequada
+136947,False,ruim,False,nuvem ou imagem inadequada
+137372,False,boa,True,sem banco
+137373,False,ruim,False,nuvem ou imagem inadequada
+137374,False,ruim,False,nuvem ou imagem inadequada
+137375,False,ruim,False,nuvem ou imagem inadequada
+137376,False,ruim,False,nuvem ou imagem inadequada
+137377,False,ruim,False,nuvem ou imagem inadequada
+137378,False,ruim,False,nuvem ou imagem inadequada
+137379,False,ruim,False,nuvem ou imagem inadequada
+137380,False,ruim,False,nuvem ou imagem inadequada
+137381,False,ruim,False,nuvem ou imagem inadequada
+137382,False,ruim,False,nuvem ou imagem inadequada
+137383,False,ruim,False,nuvem ou imagem inadequada
+137384,False,ruim,False,nuvem ou imagem inadequada
+137385,False,ruim,False,nuvem ou imagem inadequada
+137386,False,ruim,False,nuvem ou imagem inadequada
+137387,False,ruim,False,nuvem ou imagem inadequada
+137388,False,ruim,False,nuvem ou imagem inadequada
+137389,False,ruim,False,nuvem ou imagem inadequada
+137818,False,boa,True,sem banco
+137819,False,ruim,False,nuvem ou imagem inadequada
+137820,False,ruim,False,nuvem ou imagem inadequada
+137821,False,ruim,False,nuvem ou imagem inadequada
+137822,False,ruim,False,nuvem ou imagem inadequada
+137823,False,ruim,False,nuvem ou imagem inadequada
+137824,False,ruim,False,nuvem ou imagem inadequada
+137825,False,ruim,False,nuvem ou imagem inadequada
+137826,False,ruim,False,nuvem ou imagem inadequada
+137827,False,ruim,False,nuvem ou imagem inadequada
+137828,False,ruim,False,nuvem ou imagem inadequada
+137829,False,ruim,False,nuvem ou imagem inadequada
+137830,False,ruim,False,nuvem ou imagem inadequada
+137831,False,ruim,False,nuvem ou imagem inadequada
+137832,False,ruim,False,nuvem ou imagem inadequada
+137833,False,ruim,False,nuvem ou imagem inadequada
+137834,False,ruim,False,nuvem ou imagem inadequada
+137835,False,ruim,False,nuvem ou imagem inadequada
+138264,False,ruim,False,nuvem ou imagem inadequada
+138265,False,ruim,False,nuvem ou imagem inadequada
+138266,False,ruim,False,nuvem ou imagem inadequada
+138267,False,ruim,False,nuvem ou imagem inadequada
+138268,False,ruim,False,nuvem ou imagem inadequada
+138269,False,ruim,False,nuvem ou imagem inadequada
+138270,False,ruim,False,nuvem ou imagem inadequada
+138271,False,ruim,False,nuvem ou imagem inadequada
+138272,False,ruim,False,nuvem ou imagem inadequada
+138273,False,ruim,False,nuvem ou imagem inadequada
+138274,False,ruim,False,nuvem ou imagem inadequada
+138275,False,ruim,False,nuvem ou imagem inadequada
+138276,False,ruim,False,nuvem ou imagem inadequada
+138277,False,ruim,False,nuvem ou imagem inadequada
+138278,False,ruim,False,nuvem ou imagem inadequada
+138279,False,ruim,False,nuvem ou imagem inadequada
+138280,False,ruim,False,nuvem ou imagem inadequada
+138711,False,ruim,False,nuvem ou imagem inadequada
+138712,False,ruim,False,nuvem ou imagem inadequada
+138713,False,ruim,False,nuvem ou imagem inadequada
+138714,False,ruim,False,nuvem ou imagem inadequada
+138715,False,ruim,False,nuvem ou imagem inadequada
+138716,False,ruim,False,nuvem ou imagem inadequada
+138717,False,ruim,False,nuvem ou imagem inadequada
+138718,False,ruim,False,nuvem ou imagem inadequada
+138719,False,ruim,False,nuvem ou imagem inadequada
+138720,False,ruim,False,nuvem ou imagem inadequada
+138721,False,ruim,False,nuvem ou imagem inadequada
+138722,False,ruim,False,nuvem ou imagem inadequada
+138723,False,ruim,False,nuvem ou imagem inadequada
+138724,False,ruim,False,nuvem ou imagem inadequada
+138725,False,ruim,False,nuvem ou imagem inadequada
+139156,False,ruim,False,nuvem ou imagem inadequada
+139157,False,ruim,False,nuvem ou imagem inadequada
+139158,False,ruim,False,nuvem ou imagem inadequada
+139159,False,ruim,False,nuvem ou imagem inadequada
+139160,False,ruim,False,nuvem ou imagem inadequada
+139161,False,ruim,False,nuvem ou imagem inadequada
+139162,False,ruim,False,nuvem ou imagem inadequada
+139163,False,ruim,False,nuvem ou imagem inadequada
+139164,False,ruim,False,nuvem ou imagem inadequada
+139165,False,ruim,False,nuvem ou imagem inadequada
+139166,False,ruim,False,nuvem ou imagem inadequada
+139167,False,ruim,False,nuvem ou imagem inadequada
+139168,False,ruim,False,nuvem ou imagem inadequada
+139169,False,ruim,False,nuvem ou imagem inadequada
+139170,False,ruim,False,nuvem ou imagem inadequada
+139171,False,ruim,False,nuvem ou imagem inadequada
+139600,False,boa,True,sem banco
+139601,False,boa,True,sem banco
+139602,False,ruim,False,nuvem ou imagem inadequada
+139603,False,ruim,False,nuvem ou imagem inadequada
+139604,False,ruim,False,nuvem ou imagem inadequada
+139605,False,ruim,False,nuvem ou imagem inadequada
+139606,False,ruim,False,nuvem ou imagem inadequada
+139607,False,ruim,False,nuvem ou imagem inadequada
+139608,False,ruim,False,nuvem ou imagem inadequada
+139609,False,ruim,False,nuvem ou imagem inadequada
+139610,True,boa,True,banco evidente
+139611,True,boa,True,banco evidente
+139612,False,ruim,False,nuvem ou imagem inadequada
+139613,False,ruim,False,nuvem ou imagem inadequada
+139614,False,ruim,False,nuvem ou imagem inadequada
+139615,False,ruim,False,nuvem ou imagem inadequada
+139616,False,ruim,False,nuvem ou imagem inadequada
+139617,True,boa,True,banco evidente
+140047,False,boa,True,sem banco
+140048,False,boa,True,sem banco
+140049,False,ruim,False,nuvem ou imagem inadequada
+140050,False,ruim,False,nuvem ou imagem inadequada
+140051,False,ruim,False,nuvem ou imagem inadequada
+140052,False,ruim,False,nuvem ou imagem inadequada
+140053,False,ruim,False,nuvem ou imagem inadequada
+140054,False,ruim,False,nuvem ou imagem inadequada
+140055,False,ruim,False,nuvem ou imagem inadequada
+140056,False,ruim,False,nuvem ou imagem inadequada
+140057,False,ruim,False,nuvem ou imagem inadequada
+140058,False,ruim,False,nuvem ou imagem inadequada
+140059,False,ruim,False,nuvem ou imagem inadequada
+140060,False,ruim,False,nuvem ou imagem inadequada
+140061,False,ruim,False,nuvem ou imagem inadequada
+140062,False,ruim,False,nuvem ou imagem inadequada
+140497,False,ruim,False,nuvem ou imagem inadequada
+140499,False,ruim,False,nuvem ou imagem inadequada
+140500,False,ruim,False,nuvem ou imagem inadequada
+140501,False,ruim,False,nuvem ou imagem inadequada
+140502,False,ruim,False,nuvem ou imagem inadequada
+140503,False,ruim,False,nuvem ou imagem inadequada
+140504,False,ruim,False,nuvem ou imagem inadequada
+140505,False,ruim,False,nuvem ou imagem inadequada
+140506,False,ruim,False,nuvem ou imagem inadequada
+140507,False,ruim,False,nuvem ou imagem inadequada
+140508,False,ruim,False,nuvem ou imagem inadequada
+140942,False,ruim,False,nuvem ou imagem inadequada
+140948,False,ruim,False,nuvem ou imagem inadequada
+140949,False,ruim,False,nuvem ou imagem inadequada
+140950,False,ruim,False,nuvem ou imagem inadequada
+140951,False,ruim,False,nuvem ou imagem inadequada
+140952,False,ruim,False,nuvem ou imagem inadequada
+140953,False,ruim,False,nuvem ou imagem inadequada
+140954,False,ruim,False,nuvem ou imagem inadequada
+141388,False,ruim,False,nuvem ou imagem inadequada
+141389,False,ruim,False,nuvem ou imagem inadequada
+141390,False,ruim,False,nuvem ou imagem inadequada
+141391,False,ruim,False,nuvem ou imagem inadequada
+141392,False,ruim,False,nuvem ou imagem inadequada
+141393,False,ruim,False,nuvem ou imagem inadequada
+141394,False,ruim,False,nuvem ou imagem inadequada
+141395,False,ruim,False,nuvem ou imagem inadequada
+141396,False,ruim,False,nuvem ou imagem inadequada
+141397,False,ruim,False,nuvem ou imagem inadequada
+141398,False,ruim,False,nuvem ou imagem inadequada
+141399,False,ruim,False,nuvem ou imagem inadequada
+141400,False,boa,True,sem banco
+141833,False,ruim,False,nuvem ou imagem inadequada
+141834,False,ruim,False,nuvem ou imagem inadequada
+141835,False,ruim,False,nuvem ou imagem inadequada
+141836,False,ruim,False,nuvem ou imagem inadequada
+141837,False,ruim,False,nuvem ou imagem inadequada
+141838,False,ruim,False,nuvem ou imagem inadequada
+141839,False,ruim,False,nuvem ou imagem inadequada
+141840,False,ruim,False,nuvem ou imagem inadequada
+141841,False,ruim,False,nuvem ou imagem inadequada
+141842,False,ruim,False,nuvem ou imagem inadequada
+141843,False,ruim,False,nuvem ou imagem inadequada
+141844,False,ruim,False,nuvem ou imagem inadequada
+141845,False,ruim,False,nuvem ou imagem inadequada
+141846,False,ruim,False,nuvem ou imagem inadequada
+142280,False,ruim,False,nuvem ou imagem inadequada
+142281,False,ruim,False,nuvem ou imagem inadequada
+142282,False,ruim,False,nuvem ou imagem inadequada
+142283,False,ruim,False,nuvem ou imagem inadequada
+142284,False,ruim,False,nuvem ou imagem inadequada
+142285,False,ruim,False,nuvem ou imagem inadequada
+142286,False,ruim,False,nuvem ou imagem inadequada
+142287,False,ruim,False,nuvem ou imagem inadequada
+142288,False,ruim,False,nuvem ou imagem inadequada
+142289,False,ruim,False,nuvem ou imagem inadequada
+142290,False,ruim,False,nuvem ou imagem inadequada
+142291,False,ruim,False,nuvem ou imagem inadequada
+142292,False,boa,True,sem banco
+142726,False,ruim,False,nuvem ou imagem inadequada
+142727,False,ruim,False,nuvem ou imagem inadequada
+142728,False,ruim,False,nuvem ou imagem inadequada
+142729,False,ruim,False,nuvem ou imagem inadequada
+142730,False,ruim,False,nuvem ou imagem inadequada
+142731,False,ruim,False,nuvem ou imagem inadequada
+142732,False,ruim,False,nuvem ou imagem inadequada
+142733,False,ruim,False,nuvem ou imagem inadequada
+142734,False,ruim,False,nuvem ou imagem inadequada
+142735,False,ruim,False,nuvem ou imagem inadequada
+142736,False,ruim,False,nuvem ou imagem inadequada
+142737,False,ruim,False,nuvem ou imagem inadequada
+143172,False,ruim,False,nuvem ou imagem inadequada
+143173,False,ruim,False,nuvem ou imagem inadequada
+143174,False,ruim,False,nuvem ou imagem inadequada
+143175,False,ruim,False,nuvem ou imagem inadequada
+143176,False,ruim,False,nuvem ou imagem inadequada
+143177,False,ruim,False,nuvem ou imagem inadequada
+143178,False,ruim,False,nuvem ou imagem inadequada
+143179,False,ruim,False,nuvem ou imagem inadequada
+143180,False,ruim,False,nuvem ou imagem inadequada
+143181,False,ruim,False,nuvem ou imagem inadequada
+143182,False,ruim,False,nuvem ou imagem inadequada
+143183,False,boa,True,sem banco
+143618,False,boa,True,sem banco
+143619,False,ruim,False,nuvem ou imagem inadequada
+143620,False,ruim,False,nuvem ou imagem inadequada
+143621,False,ruim,False,nuvem ou imagem inadequada
+143622,False,ruim,False,nuvem ou imagem inadequada
+143623,False,ruim,False,nuvem ou imagem inadequada
+143624,False,ruim,False,nuvem ou imagem inadequada
+143625,False,ruim,False,nuvem ou imagem inadequada
+143626,False,ruim,False,nuvem ou imagem inadequada
+143627,False,ruim,False,nuvem ou imagem inadequada
+143628,False,ruim,False,nuvem ou imagem inadequada
+143629,False,ruim,False,nuvem ou imagem inadequada
+144067,False,ruim,False,nuvem ou imagem inadequada
+144068,False,ruim,False,nuvem ou imagem inadequada
+144069,False,ruim,False,nuvem ou imagem inadequada
+144070,False,ruim,False,nuvem ou imagem inadequada
+144071,False,ruim,False,nuvem ou imagem inadequada
+144072,False,ruim,False,nuvem ou imagem inadequada
+144073,False,ruim,False,nuvem ou imagem inadequada
+144074,False,ruim,False,nuvem ou imagem inadequada
+144075,False,ruim,False,nuvem ou imagem inadequada
+144076,False,ruim,False,nuvem ou imagem inadequada
+144077,False,ruim,False,nuvem ou imagem inadequada
+144514,False,ruim,False,nuvem ou imagem inadequada
+144515,False,ruim,False,nuvem ou imagem inadequada
+144516,False,boa,True,sem banco
+144518,False,ruim,False,nuvem ou imagem inadequada
+144519,False,ruim,False,nuvem ou imagem inadequada
+144520,False,ruim,False,nuvem ou imagem inadequada
+144521,False,ruim,False,nuvem ou imagem inadequada
+144522,False,ruim,False,nuvem ou imagem inadequada
+144964,False,ruim,False,3
+144965,False,ruim,False,nuvem ou imagem inadequada
+144966,False,ruim,False,nuvem ou imagem inadequada
+144967,False,ruim,False,nuvem ou imagem inadequada
+144968,False,ruim,False,nuvem ou imagem inadequada
+145411,False,ruim,False,nuvem ou imagem inadequada
+145412,False,ruim,False,nuvem ou imagem inadequada
+145413,False,ruim,False,nuvem ou imagem inadequada
+145859,False,ruim,False,nuvem ou imagem inadequada
+145860,False,boa,True,sem banco
