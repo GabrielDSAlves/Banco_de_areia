@@ -1,5 +1,5 @@
 id,possui_banco,qualidade,usar_dataset,observacao
-1725,False,boa,True,sem banco
+1725,True,boa,True,corrigido para possui banco
 1726,False,boa,True,sem banco
 1727,False,boa,True,sem banco
 1728,False,boa,True,sem banco
@@ -41,7 +41,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 3078,False,boa,True,sem banco
 3079,False,boa,True,sem banco
 3080,False,ruim,False,nuvem ou imagem inadequada
-3081,False,boa,True,sem banco
+3081,True,boa,True,corrigido para possui banco
 3082,False,boa,True,sem banco
 3083,False,boa,True,sem banco
 3084,False,boa,True,sem banco
@@ -92,7 +92,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 6177,False,ruim,False,nuvem ou imagem inadequada
 6211,False,boa,True,sem banco
 6621,False,boa,True,sem banco
-6622,True,boa,True,banco evidente
+6622,False,boa,True,corrigido para não possui banco
 6623,False,boa,True,sem banco
 6657,False,boa,True,sem banco
 7066,False,boa,True,sem banco
@@ -123,18 +123,18 @@ id,possui_banco,qualidade,usar_dataset,observacao
 9291,False,boa,True,sem banco
 9341,False,boa,True,sem banco
 9342,False,ruim,False,nuvem ou imagem inadequada
-9736,False,boa,True,sem banco
+9736,True,boa,True,corrigido para possui banco
 9788,False,ruim,False,nuvem ou imagem inadequada
 10181,True,boa,True,banco evidente
 10182,True,boa,True,banco evidente
 10234,False,boa,True,sem banco
-10235,True,boa,True,banco evidente
-10626,True,boa,True,banco evidente
+10235,False,boa,True,corrigido para não possui banco
+10626,False,boa,True,corrigido para não possui banco
 10681,False,boa,True,sem banco
 11071,False,ruim,False,nuvem ou imagem inadequada
 11072,False,boa,True,sem banco
 11127,False,boa,True,sem banco
-11128,False,boa,True,sem banco
+11128,True,boa,True,corrigido para possui banco
 11516,False,ruim,False,nuvem ou imagem inadequada
 11517,False,boa,True,sem banco
 11574,False,ruim,False,nuvem ou imagem inadequada
@@ -142,7 +142,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 11962,False,ruim,False,nuvem ou imagem inadequada
 12022,False,ruim,False,nuvem ou imagem inadequada
 12407,True,boa,True,banco evidente
-12408,True,boa,True,banco evidente
+12408,False,boa,True,corrigido para não possui banco
 12469,False,ruim,False,nuvem ou imagem inadequada
 12470,True,boa,True,banco evidente
 12471,False,ruim,False,nuvem ou imagem inadequada
@@ -164,12 +164,12 @@ id,possui_banco,qualidade,usar_dataset,observacao
 13814,False,boa,True,sem banco
 13815,False,boa,True,sem banco
 13816,False,boa,True,sem banco
-13818,False,boa,True,sem banco
+13818,True,boa,True,corrigido para possui banco
 13819,False,ruim,False,nuvem ou imagem inadequada
 13820,False,boa,True,sem banco
 13821,False,boa,True,sem banco
 13822,False,ruim,False,nuvem ou imagem inadequada
-13823,False,boa,True,sem banco
+13823,True,boa,True,corrigido para possui banco
 14191,False,ruim,False,nuvem ou imagem inadequada
 14262,False,boa,True,sem banco
 14269,False,boa,True,sem banco
@@ -211,7 +211,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 22214,False,ruim,False,nuvem ou imagem inadequada
 22215,False,ruim,False,nuvem ou imagem inadequada
 22659,False,ruim,False,nuvem ou imagem inadequada
-22660,False,boa,True,sem banco
+22660,True,boa,True,corrigido para possui banco
 23104,False,ruim,False,nuvem ou imagem inadequada
 23105,False,ruim,False,nuvem ou imagem inadequada
 23550,False,boa,True,sem banco
@@ -274,8 +274,8 @@ id,possui_banco,qualidade,usar_dataset,observacao
 32898,False,boa,True,sem banco
 32899,False,ruim,False,nuvem ou imagem inadequada
 32900,False,boa,True,sem banco
-32901,False,boa,True,sem banco
-32902,False,boa,True,sem banco
+32901,True,boa,True,corrigido para possui banco
+32902,True,boa,True,corrigido para possui banco
 33328,False,ruim,False,nuvem ou imagem inadequada
 33329,False,ruim,False,nuvem ou imagem inadequada
 33330,False,ruim,False,nuvem ou imagem inadequada
@@ -296,7 +296,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 33781,False,boa,True,sem banco
 33785,False,ruim,False,nuvem ou imagem inadequada
 33786,False,ruim,False,nuvem ou imagem inadequada
-33787,False,boa,True,sem banco
+33787,True,boa,True,corrigido para possui banco
 33788,False,ruim,False,nuvem ou imagem inadequada
 33789,False,ruim,False,nuvem ou imagem inadequada
 33790,False,ruim,False,nuvem ou imagem inadequada
@@ -337,7 +337,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 37781,False,ruim,False,nuvem ou imagem inadequada
 37782,False,ruim,False,nuvem ou imagem inadequada
 37783,False,ruim,False,nuvem ou imagem inadequada
-38226,True,boa,True,banco evidente
+38226,False,boa,True,corrigido para não possui banco
 38227,False,ruim,False,nuvem ou imagem inadequada
 38228,False,boa,True,sem banco
 38671,False,ruim,False,nuvem ou imagem inadequada
@@ -410,7 +410,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 49357,False,ruim,False,nuvem ou imagem inadequada
 49799,False,boa,True,sem banco
 49800,False,ruim,False,nuvem ou imagem inadequada
-49801,True,boa,True,banco evidente
+49801,False,boa,True,corrigido para não possui banco
 49802,False,ruim,False,nuvem ou imagem inadequada
 49803,False,boa,True,sem banco
 50244,True,boa,True,banco evidente
@@ -633,7 +633,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 70244,False,boa,True,sem banco
 70245,False,ruim,False,nuvem ou imagem inadequada
 70246,True,boa,True,banco evidente
-70685,False,boa,True,sem banco
+70685,True,boa,True,corrigido para possui banco
 70686,False,ruim,False,nuvem ou imagem inadequada
 70688,False,ruim,False,nuvem ou imagem inadequada
 70689,False,ruim,False,nuvem ou imagem inadequada
@@ -756,7 +756,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 87160,False,boa,True,sem banco
 87167,False,ruim,False,nuvem ou imagem inadequada
 87168,False,boa,True,sem banco
-87169,False,boa,True,sem banco
+87169,True,boa,True,corrigido para possui banco
 87604,False,ruim,False,nuvem ou imagem inadequada
 88049,False,boa,True,sem banco
 88495,False,ruim,False,nuvem ou imagem inadequada
@@ -776,7 +776,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 93402,False,ruim,False,nuvem ou imagem inadequada
 93845,False,ruim,False,nuvem ou imagem inadequada
 93846,False,boa,True,sem banco
-93847,False,boa,True,sem banco
+93847,True,boa,True,corrigido para possui banco
 93848,False,boa,True,sem banco
 94288,False,boa,True,sem banco
 94289,False,ruim,False,nuvem ou imagem inadequada
@@ -2248,7 +2248,7 @@ id,possui_banco,qualidade,usar_dataset,observacao
 139608,False,ruim,False,nuvem ou imagem inadequada
 139609,False,ruim,False,nuvem ou imagem inadequada
 139610,True,boa,True,banco evidente
-139611,True,boa,True,banco evidente
+139611,False,boa,True,corrigido para não possui banco
 139612,False,ruim,False,nuvem ou imagem inadequada
 139613,False,ruim,False,nuvem ou imagem inadequada
 139614,False,ruim,False,nuvem ou imagem inadequada
