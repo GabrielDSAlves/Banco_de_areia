@@ -1,102 +1,201 @@
-id,possui_banco,qualidade,usar_dataset,observacao
-137372,False,boa,True,sem banco
-6657,False,boa,True,sem banco
-109432,False,boa,True,sem banco
-1726,False,boa,True,sem banco
-122329,True,boa,True,banco evidente
-115207,True,boa,True,banco evidente
-33787,True,boa,True,corrigido para possui banco
-121884,True,boa,True,banco evidente
-9736,True,boa,True,corrigido para possui banco
-1725,True,boa,True,corrigido para possui banco
-13823,True,boa,True,corrigido para possui banco
-70246,True,boa,True,banco evidente
-13820,False,boa,True,sem banco
-86719,True,boa,True,banco evidente
-69803,False,boa,True,sem banco
-3081,True,boa,True,corrigido para possui banco
-3082,False,boa,True,sem banco
-57806,False,boa,True,sem banco
-10182,True,boa,True,banco evidente
-70685,True,boa,True,corrigido para possui banco
-33345,False,boa,True,sem banco
-35125,False,boa,True,sem banco
-56475,True,boa,True,banco evidente
-121439,True,boa,True,banco evidente
-16422,False,boa,True,sem banco
-12470,True,boa,True,banco evidente
-115655,True,boa,True,banco evidente
-46243,False,boa,True,sem banco
-8401,True,boa,True,banco evidente
-30233,False,boa,True,sem banco
-10181,True,boa,True,banco evidente
-86730,False,boa,True,sem banco
-6622,False,boa,True,corrigido para não possui banco
-59146,True,boa,True,banco evidente
-4839,False,boa,True,sem banco
-3977,True,boa,True,banco evidente
-128538,True,boa,True,banco evidente
-2186,False,boa,True,sem banco
-93847,True,boa,True,corrigido para possui banco
-13299,True,boa,True,banco evidente
-3060,False,boa,True,sem banco
-87169,True,boa,True,corrigido para possui banco
-7104,True,boa,True,banco evidente
-121878,True,boa,True,banco evidente
-10234,False,boa,True,sem banco
-57369,True,boa,True,banco evidente
-22660,True,boa,True,corrigido para possui banco
-66253,False,boa,True,sem banco
-50244,True,boa,True,banco evidente
-3975,False,boa,True,sem banco
-139610,True,boa,True,banco evidente
-11128,True,boa,True,corrigido para possui banco
-41342,True,boa,True,banco evidente
-2176,True,boa,True,banco evidente
-13818,True,boa,True,corrigido para possui banco
-113882,True,boa,True,banco evidente
-8400,True,boa,True,banco evidente
-57805,False,boa,True,sem banco
-5318,True,boa,True,banco evidente
-36446,False,boa,True,sem banco
-108982,True,boa,True,banco evidente
-2632,False,boa,True,sem banco
-83168,False,boa,True,sem banco
-4870,False,boa,True,sem banco
-120104,False,boa,True,sem banco
-139617,True,boa,True,banco evidente
-76483,False,boa,True,sem banco
-123654,True,boa,True,banco evidente
-128937,False,boa,True,sem banco
-78716,False,boa,True,sem banco
-6623,False,boa,True,sem banco
-143183,False,boa,True,sem banco
-121427,True,boa,True,banco evidente
-29788,False,boa,True,sem banco
-128944,True,boa,True,banco evidente
-45795,False,boa,True,sem banco
-11072,False,boa,True,sem banco
-93846,False,boa,True,sem banco
-81386,True,boa,True,banco evidente
-20432,False,boa,True,sem banco
-115656,False,boa,True,sem banco
-35557,False,boa,True,sem banco
-111654,False,boa,True,sem banco
-111211,True,boa,True,banco evidente
-64030,True,boa,True,banco evidente
-1737,True,boa,True,banco evidente
-3502,False,boa,True,sem banco
-32902,True,boa,True,corrigido para possui banco
-1739,True,boa,True,banco evidente
-40005,True,boa,True,banco evidente
-7955,False,boa,True,sem banco
-1733,False,boa,True,sem banco
-80942,False,boa,True,sem banco
-25332,False,boa,True,sem banco
-19097,False,boa,True,sem banco
-32901,True,boa,True,corrigido para possui banco
-30676,False,boa,True,sem banco
-2173,False,boa,True,sem banco
-12407,True,boa,True,banco evidente
-112992,False,boa,True,sem banco
-127174,False,boa,True,sem banco
+id,possui_banco,qualidade,usar_dataset,observacao,classe,caminho_imagem,caminho_mascara
+30232,False,boa,True,sem banco,negativa,../data/segmentacao/images/30232.tif,../data/segmentacao/masks/negativa/30232.tif
+13299,True,boa,True,banco evidente,positiva,../data/segmentacao/images/13299.tif,../data/segmentacao/masks/positiva/13299.tif
+70685,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/70685.tif,../data/segmentacao/masks/positiva/70685.tif
+113437,False,boa,True,sem banco,negativa,../data/segmentacao/images/113437.tif,../data/segmentacao/masks/negativa/113437.tif
+137818,False,boa,True,sem banco,negativa,../data/segmentacao/images/137818.tif,../data/segmentacao/masks/negativa/137818.tif
+10234,False,boa,True,sem banco,negativa,../data/segmentacao/images/10234.tif,../data/segmentacao/masks/negativa/10234.tif
+15978,False,boa,True,sem banco,negativa,../data/segmentacao/images/15978.tif,../data/segmentacao/masks/negativa/15978.tif
+111209,False,boa,True,sem banco,negativa,../data/segmentacao/images/111209.tif,../data/segmentacao/masks/negativa/111209.tif
+3504,False,boa,True,sem banco,negativa,../data/segmentacao/images/3504.tif,../data/segmentacao/masks/negativa/3504.tif
+123654,True,boa,True,banco evidente,positiva,../data/segmentacao/images/123654.tif,../data/segmentacao/masks/positiva/123654.tif
+1725,False,boa,True,corrigido para não possui banco,negativa,../data/segmentacao/images/1725.tif,../data/segmentacao/masks/negativa/1725.tif
+7066,False,boa,True,sem banco,negativa,../data/segmentacao/images/7066.tif,../data/segmentacao/masks/negativa/7066.tif
+11517,False,boa,True,sem banco,negativa,../data/segmentacao/images/11517.tif,../data/segmentacao/masks/negativa/11517.tif
+57366,False,boa,True,sem banco,negativa,../data/segmentacao/images/57366.tif,../data/segmentacao/masks/negativa/57366.tif
+107205,False,boa,True,sem banco,negativa,../data/segmentacao/images/107205.tif,../data/segmentacao/masks/negativa/107205.tif
+41786,False,boa,True,sem banco,negativa,../data/segmentacao/images/41786.tif,../data/segmentacao/masks/negativa/41786.tif
+10681,False,boa,True,sem banco,negativa,../data/segmentacao/images/10681.tif,../data/segmentacao/masks/negativa/10681.tif
+139611,False,boa,True,corrigido para não possui banco,negativa,../data/segmentacao/images/139611.tif,../data/segmentacao/masks/negativa/139611.tif
+4422,False,boa,True,sem banco,negativa,../data/segmentacao/images/4422.tif,../data/segmentacao/masks/negativa/4422.tif
+128936,False,boa,True,sem banco,negativa,../data/segmentacao/images/128936.tif,../data/segmentacao/masks/negativa/128936.tif
+133852,False,boa,True,sem banco,negativa,../data/segmentacao/images/133852.tif,../data/segmentacao/masks/negativa/133852.tif
+13818,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/13818.tif,../data/segmentacao/masks/positiva/13818.tif
+86714,False,boa,True,sem banco,negativa,../data/segmentacao/images/86714.tif,../data/segmentacao/masks/negativa/86714.tif
+66249,False,boa,True,sem banco,negativa,../data/segmentacao/images/66249.tif,../data/segmentacao/masks/negativa/66249.tif
+109428,False,boa,True,sem banco,negativa,../data/segmentacao/images/109428.tif,../data/segmentacao/masks/negativa/109428.tif
+78269,False,boa,True,sem banco,negativa,../data/segmentacao/images/78269.tif,../data/segmentacao/masks/negativa/78269.tif
+111215,False,boa,True,sem banco,negativa,../data/segmentacao/images/111215.tif,../data/segmentacao/masks/negativa/111215.tif
+76036,False,boa,True,sem banco,negativa,../data/segmentacao/images/76036.tif,../data/segmentacao/masks/negativa/76036.tif
+56927,False,boa,True,sem banco,negativa,../data/segmentacao/images/56927.tif,../data/segmentacao/masks/negativa/56927.tif
+1734,False,boa,True,sem banco,negativa,../data/segmentacao/images/1734.tif,../data/segmentacao/masks/negativa/1734.tif
+9736,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/9736.tif,../data/segmentacao/masks/positiva/9736.tif
+22660,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/22660.tif,../data/segmentacao/masks/positiva/22660.tif
+80945,False,boa,True,sem banco,negativa,../data/segmentacao/images/80945.tif,../data/segmentacao/masks/negativa/80945.tif
+32900,False,boa,True,sem banco,negativa,../data/segmentacao/images/32900.tif,../data/segmentacao/masks/negativa/32900.tif
+58697,False,boa,True,sem banco,negativa,../data/segmentacao/images/58697.tif,../data/segmentacao/masks/negativa/58697.tif
+86730,False,boa,True,sem banco,negativa,../data/segmentacao/images/86730.tif,../data/segmentacao/masks/negativa/86730.tif
+127209,False,boa,True,sem banco,negativa,../data/segmentacao/images/127209.tif,../data/segmentacao/masks/negativa/127209.tif
+107652,False,boa,True,sem banco,negativa,../data/segmentacao/images/107652.tif,../data/segmentacao/masks/negativa/107652.tif
+136500,False,boa,True,sem banco,negativa,../data/segmentacao/images/136500.tif,../data/segmentacao/masks/negativa/136500.tif
+69802,False,boa,True,sem banco,negativa,../data/segmentacao/images/69802.tif,../data/segmentacao/masks/negativa/69802.tif
+143183,False,boa,True,sem banco,negativa,../data/segmentacao/images/143183.tif,../data/segmentacao/masks/negativa/143183.tif
+121877,False,boa,True,sem banco,negativa,../data/segmentacao/images/121877.tif,../data/segmentacao/masks/negativa/121877.tif
+115207,True,boa,True,banco evidente,positiva,../data/segmentacao/images/115207.tif,../data/segmentacao/masks/positiva/115207.tif
+50244,True,boa,True,banco evidente,positiva,../data/segmentacao/images/50244.tif,../data/segmentacao/masks/positiva/50244.tif
+116986,False,boa,True,sem banco,negativa,../data/segmentacao/images/116986.tif,../data/segmentacao/masks/negativa/116986.tif
+112549,False,boa,True,sem banco,negativa,../data/segmentacao/images/112549.tif,../data/segmentacao/masks/negativa/112549.tif
+70246,True,boa,True,banco evidente,positiva,../data/segmentacao/images/70246.tif,../data/segmentacao/masks/positiva/70246.tif
+32901,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/32901.tif,../data/segmentacao/masks/positiva/32901.tif
+124078,False,boa,True,sem banco,negativa,../data/segmentacao/images/124078.tif,../data/segmentacao/masks/negativa/124078.tif
+7954,False,boa,True,sem banco,negativa,../data/segmentacao/images/7954.tif,../data/segmentacao/masks/negativa/7954.tif
+66253,False,boa,True,sem banco,negativa,../data/segmentacao/images/66253.tif,../data/segmentacao/masks/negativa/66253.tif
+3082,False,boa,True,sem banco,negativa,../data/segmentacao/images/3082.tif,../data/segmentacao/masks/negativa/3082.tif
+5318,True,boa,True,banco evidente,positiva,../data/segmentacao/images/5318.tif,../data/segmentacao/masks/positiva/5318.tif
+10626,False,boa,True,corrigido para não possui banco,negativa,../data/segmentacao/images/10626.tif,../data/segmentacao/masks/negativa/10626.tif
+126730,False,boa,True,sem banco,negativa,../data/segmentacao/images/126730.tif,../data/segmentacao/masks/negativa/126730.tif
+80497,False,boa,True,sem banco,negativa,../data/segmentacao/images/80497.tif,../data/segmentacao/masks/negativa/80497.tif
+134261,False,boa,True,sem banco,negativa,../data/segmentacao/images/134261.tif,../data/segmentacao/masks/negativa/134261.tif
+1732,False,boa,True,sem banco,negativa,../data/segmentacao/images/1732.tif,../data/segmentacao/masks/negativa/1732.tif
+134702,False,boa,True,sem banco,negativa,../data/segmentacao/images/134702.tif,../data/segmentacao/masks/negativa/134702.tif
+13816,False,boa,True,sem banco,negativa,../data/segmentacao/images/13816.tif,../data/segmentacao/masks/negativa/13816.tif
+17761,False,boa,True,sem banco,negativa,../data/segmentacao/images/17761.tif,../data/segmentacao/masks/negativa/17761.tif
+6622,False,boa,True,corrigido para não possui banco,negativa,../data/segmentacao/images/6622.tif,../data/segmentacao/masks/negativa/6622.tif
+81386,True,boa,True,banco evidente,positiva,../data/segmentacao/images/81386.tif,../data/segmentacao/masks/positiva/81386.tif
+11128,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/11128.tif,../data/segmentacao/masks/positiva/11128.tif
+108982,True,boa,True,banco evidente,positiva,../data/segmentacao/images/108982.tif,../data/segmentacao/masks/positiva/108982.tif
+12853,False,boa,True,sem banco,negativa,../data/segmentacao/images/12853.tif,../data/segmentacao/masks/negativa/12853.tif
+121878,True,boa,True,banco evidente,positiva,../data/segmentacao/images/121878.tif,../data/segmentacao/masks/positiva/121878.tif
+80942,False,boa,True,sem banco,negativa,../data/segmentacao/images/80942.tif,../data/segmentacao/masks/negativa/80942.tif
+86718,False,boa,True,sem banco,negativa,../data/segmentacao/images/86718.tif,../data/segmentacao/masks/negativa/86718.tif
+124963,False,boa,True,sem banco,negativa,../data/segmentacao/images/124963.tif,../data/segmentacao/masks/negativa/124963.tif
+3084,False,boa,True,sem banco,negativa,../data/segmentacao/images/3084.tif,../data/segmentacao/masks/negativa/3084.tif
+12917,False,boa,True,sem banco,negativa,../data/segmentacao/images/12917.tif,../data/segmentacao/masks/negativa/12917.tif
+57810,False,boa,True,sem banco,negativa,../data/segmentacao/images/57810.tif,../data/segmentacao/masks/negativa/57810.tif
+121439,True,boa,True,banco evidente,positiva,../data/segmentacao/images/121439.tif,../data/segmentacao/masks/positiva/121439.tif
+59143,False,boa,True,sem banco,negativa,../data/segmentacao/images/59143.tif,../data/segmentacao/masks/negativa/59143.tif
+4870,False,boa,True,sem banco,negativa,../data/segmentacao/images/4870.tif,../data/segmentacao/masks/negativa/4870.tif
+57369,True,boa,True,banco evidente,positiva,../data/segmentacao/images/57369.tif,../data/segmentacao/masks/positiva/57369.tif
+20432,False,boa,True,sem banco,negativa,../data/segmentacao/images/20432.tif,../data/segmentacao/masks/negativa/20432.tif
+130707,False,boa,True,sem banco,negativa,../data/segmentacao/images/130707.tif,../data/segmentacao/masks/negativa/130707.tif
+116541,False,boa,True,sem banco,negativa,../data/segmentacao/images/116541.tif,../data/segmentacao/masks/negativa/116541.tif
+2176,True,boa,True,banco evidente,positiva,../data/segmentacao/images/2176.tif,../data/segmentacao/masks/positiva/2176.tif
+57805,False,boa,True,sem banco,negativa,../data/segmentacao/images/57805.tif,../data/segmentacao/masks/negativa/57805.tif
+128538,True,boa,True,banco evidente,positiva,../data/segmentacao/images/128538.tif,../data/segmentacao/masks/positiva/128538.tif
+87168,False,boa,True,sem banco,negativa,../data/segmentacao/images/87168.tif,../data/segmentacao/masks/negativa/87168.tif
+12408,False,boa,True,corrigido para não possui banco,negativa,../data/segmentacao/images/12408.tif,../data/segmentacao/masks/negativa/12408.tif
+24886,False,boa,True,sem banco,negativa,../data/segmentacao/images/24886.tif,../data/segmentacao/masks/negativa/24886.tif
+43125,False,boa,True,sem banco,negativa,../data/segmentacao/images/43125.tif,../data/segmentacao/masks/negativa/43125.tif
+111211,True,boa,True,banco evidente,positiva,../data/segmentacao/images/111211.tif,../data/segmentacao/masks/positiva/111211.tif
+16868,False,boa,True,sem banco,negativa,../data/segmentacao/images/16868.tif,../data/segmentacao/masks/negativa/16868.tif
+3949,False,boa,True,sem banco,negativa,../data/segmentacao/images/3949.tif,../data/segmentacao/masks/negativa/3949.tif
+40005,True,boa,True,banco evidente,positiva,../data/segmentacao/images/40005.tif,../data/segmentacao/masks/positiva/40005.tif
+7103,False,boa,True,sem banco,negativa,../data/segmentacao/images/7103.tif,../data/segmentacao/masks/negativa/7103.tif
+34235,False,boa,True,sem banco,negativa,../data/segmentacao/images/34235.tif,../data/segmentacao/masks/negativa/34235.tif
+87169,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/87169.tif,../data/segmentacao/masks/positiva/87169.tif
+10182,True,boa,True,banco evidente,positiva,../data/segmentacao/images/10182.tif,../data/segmentacao/masks/positiva/10182.tif
+69796,False,boa,True,sem banco,negativa,../data/segmentacao/images/69796.tif,../data/segmentacao/masks/negativa/69796.tif
+128934,False,boa,True,sem banco,negativa,../data/segmentacao/images/128934.tif,../data/segmentacao/masks/negativa/128934.tif
+7104,True,boa,True,banco evidente,positiva,../data/segmentacao/images/7104.tif,../data/segmentacao/masks/positiva/7104.tif
+59146,True,boa,True,banco evidente,positiva,../data/segmentacao/images/59146.tif,../data/segmentacao/masks/positiva/59146.tif
+14269,False,boa,True,sem banco,negativa,../data/segmentacao/images/14269.tif,../data/segmentacao/masks/negativa/14269.tif
+3977,True,boa,True,banco evidente,positiva,../data/segmentacao/images/3977.tif,../data/segmentacao/masks/positiva/3977.tif
+86719,True,boa,True,banco evidente,positiva,../data/segmentacao/images/86719.tif,../data/segmentacao/masks/positiva/86719.tif
+36893,False,boa,True,sem banco,negativa,../data/segmentacao/images/36893.tif,../data/segmentacao/masks/negativa/36893.tif
+70244,False,boa,True,sem banco,negativa,../data/segmentacao/images/70244.tif,../data/segmentacao/masks/negativa/70244.tif
+11072,False,boa,True,sem banco,negativa,../data/segmentacao/images/11072.tif,../data/segmentacao/masks/negativa/11072.tif
+68915,False,boa,True,sem banco,negativa,../data/segmentacao/images/68915.tif,../data/segmentacao/masks/negativa/68915.tif
+10181,True,boa,True,banco evidente,positiva,../data/segmentacao/images/10181.tif,../data/segmentacao/masks/positiva/10181.tif
+35125,False,boa,True,sem banco,negativa,../data/segmentacao/images/35125.tif,../data/segmentacao/masks/negativa/35125.tif
+11127,False,boa,True,sem banco,negativa,../data/segmentacao/images/11127.tif,../data/segmentacao/masks/negativa/11127.tif
+34218,False,boa,True,sem banco,negativa,../data/segmentacao/images/34218.tif,../data/segmentacao/masks/negativa/34218.tif
+40898,False,boa,True,sem banco,negativa,../data/segmentacao/images/40898.tif,../data/segmentacao/masks/negativa/40898.tif
+1737,True,boa,True,banco evidente,positiva,../data/segmentacao/images/1737.tif,../data/segmentacao/masks/positiva/1737.tif
+34675,False,boa,True,sem banco,negativa,../data/segmentacao/images/34675.tif,../data/segmentacao/masks/negativa/34675.tif
+94288,False,boa,True,sem banco,negativa,../data/segmentacao/images/94288.tif,../data/segmentacao/masks/negativa/94288.tif
+2172,False,boa,True,sem banco,negativa,../data/segmentacao/images/2172.tif,../data/segmentacao/masks/negativa/2172.tif
+111658,False,boa,True,sem banco,negativa,../data/segmentacao/images/111658.tif,../data/segmentacao/masks/negativa/111658.tif
+36002,False,boa,True,sem banco,negativa,../data/segmentacao/images/36002.tif,../data/segmentacao/masks/negativa/36002.tif
+122329,True,boa,True,banco evidente,positiva,../data/segmentacao/images/122329.tif,../data/segmentacao/masks/positiva/122329.tif
+2628,False,boa,True,sem banco,negativa,../data/segmentacao/images/2628.tif,../data/segmentacao/masks/negativa/2628.tif
+64030,True,boa,True,banco evidente,positiva,../data/segmentacao/images/64030.tif,../data/segmentacao/masks/positiva/64030.tif
+121427,True,boa,True,banco evidente,positiva,../data/segmentacao/images/121427.tif,../data/segmentacao/masks/positiva/121427.tif
+134294,False,boa,True,sem banco,negativa,../data/segmentacao/images/134294.tif,../data/segmentacao/masks/negativa/134294.tif
+134260,False,boa,True,sem banco,negativa,../data/segmentacao/images/134260.tif,../data/segmentacao/masks/negativa/134260.tif
+78716,False,boa,True,sem banco,negativa,../data/segmentacao/images/78716.tif,../data/segmentacao/masks/negativa/78716.tif
+56475,True,boa,True,banco evidente,positiva,../data/segmentacao/images/56475.tif,../data/segmentacao/masks/positiva/56475.tif
+41342,True,boa,True,banco evidente,positiva,../data/segmentacao/images/41342.tif,../data/segmentacao/masks/positiva/41342.tif
+34676,False,boa,True,sem banco,negativa,../data/segmentacao/images/34676.tif,../data/segmentacao/masks/negativa/34676.tif
+2616,False,boa,True,sem banco,negativa,../data/segmentacao/images/2616.tif,../data/segmentacao/masks/negativa/2616.tif
+19096,False,boa,True,sem banco,negativa,../data/segmentacao/images/19096.tif,../data/segmentacao/masks/negativa/19096.tif
+115655,True,boa,True,banco evidente,positiva,../data/segmentacao/images/115655.tif,../data/segmentacao/masks/positiva/115655.tif
+58250,False,boa,True,sem banco,negativa,../data/segmentacao/images/58250.tif,../data/segmentacao/masks/negativa/58250.tif
+128944,True,boa,True,banco evidente,positiva,../data/segmentacao/images/128944.tif,../data/segmentacao/masks/positiva/128944.tif
+19097,False,boa,True,sem banco,negativa,../data/segmentacao/images/19097.tif,../data/segmentacao/masks/negativa/19097.tif
+33781,False,boa,True,sem banco,negativa,../data/segmentacao/images/33781.tif,../data/segmentacao/masks/negativa/33781.tif
+121884,True,boa,True,banco evidente,positiva,../data/segmentacao/images/121884.tif,../data/segmentacao/masks/positiva/121884.tif
+39117,False,boa,True,sem banco,negativa,../data/segmentacao/images/39117.tif,../data/segmentacao/masks/negativa/39117.tif
+3081,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/3081.tif,../data/segmentacao/masks/positiva/3081.tif
+135177,False,boa,True,sem banco,negativa,../data/segmentacao/images/135177.tif,../data/segmentacao/masks/negativa/135177.tif
+119214,False,boa,True,sem banco,negativa,../data/segmentacao/images/119214.tif,../data/segmentacao/masks/negativa/119214.tif
+23995,False,boa,True,sem banco,negativa,../data/segmentacao/images/23995.tif,../data/segmentacao/masks/negativa/23995.tif
+128938,False,boa,True,sem banco,negativa,../data/segmentacao/images/128938.tif,../data/segmentacao/masks/negativa/128938.tif
+113880,False,boa,True,sem banco,negativa,../data/segmentacao/images/113880.tif,../data/segmentacao/masks/negativa/113880.tif
+1733,False,boa,True,sem banco,negativa,../data/segmentacao/images/1733.tif,../data/segmentacao/masks/negativa/1733.tif
+139617,True,boa,True,banco evidente,positiva,../data/segmentacao/images/139617.tif,../data/segmentacao/masks/positiva/139617.tif
+2634,False,boa,True,sem banco,negativa,../data/segmentacao/images/2634.tif,../data/segmentacao/masks/negativa/2634.tif
+93847,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/93847.tif,../data/segmentacao/masks/positiva/93847.tif
+8400,True,boa,True,banco evidente,positiva,../data/segmentacao/images/8400.tif,../data/segmentacao/masks/positiva/8400.tif
+31567,False,boa,True,sem banco,negativa,../data/segmentacao/images/31567.tif,../data/segmentacao/masks/negativa/31567.tif
+112991,False,boa,True,sem banco,negativa,../data/segmentacao/images/112991.tif,../data/segmentacao/masks/negativa/112991.tif
+137372,False,boa,True,sem banco,negativa,../data/segmentacao/images/137372.tif,../data/segmentacao/masks/negativa/137372.tif
+48019,False,boa,True,sem banco,negativa,../data/segmentacao/images/48019.tif,../data/segmentacao/masks/negativa/48019.tif
+44906,False,boa,True,sem banco,negativa,../data/segmentacao/images/44906.tif,../data/segmentacao/masks/negativa/44906.tif
+45354,False,boa,True,sem banco,negativa,../data/segmentacao/images/45354.tif,../data/segmentacao/masks/negativa/45354.tif
+8401,True,boa,True,banco evidente,positiva,../data/segmentacao/images/8401.tif,../data/segmentacao/masks/positiva/8401.tif
+12407,True,boa,True,banco evidente,positiva,../data/segmentacao/images/12407.tif,../data/segmentacao/masks/positiva/12407.tif
+30234,False,boa,True,sem banco,negativa,../data/segmentacao/images/30234.tif,../data/segmentacao/masks/negativa/30234.tif
+26670,False,boa,True,sem banco,negativa,../data/segmentacao/images/26670.tif,../data/segmentacao/masks/negativa/26670.tif
+109879,False,boa,True,sem banco,negativa,../data/segmentacao/images/109879.tif,../data/segmentacao/masks/negativa/109879.tif
+13823,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/13823.tif,../data/segmentacao/masks/positiva/13823.tif
+9341,False,boa,True,sem banco,negativa,../data/segmentacao/images/9341.tif,../data/segmentacao/masks/negativa/9341.tif
+37337,False,boa,True,sem banco,negativa,../data/segmentacao/images/37337.tif,../data/segmentacao/masks/negativa/37337.tif
+26224,False,boa,True,sem banco,negativa,../data/segmentacao/images/26224.tif,../data/segmentacao/masks/negativa/26224.tif
+2617,False,boa,True,sem banco,negativa,../data/segmentacao/images/2617.tif,../data/segmentacao/masks/negativa/2617.tif
+21324,False,boa,True,sem banco,negativa,../data/segmentacao/images/21324.tif,../data/segmentacao/masks/negativa/21324.tif
+6621,False,boa,True,sem banco,negativa,../data/segmentacao/images/6621.tif,../data/segmentacao/masks/negativa/6621.tif
+6623,False,boa,True,sem banco,negativa,../data/segmentacao/images/6623.tif,../data/segmentacao/masks/negativa/6623.tif
+1728,False,boa,True,sem banco,negativa,../data/segmentacao/images/1728.tif,../data/segmentacao/masks/negativa/1728.tif
+126741,False,boa,True,sem banco,negativa,../data/segmentacao/images/126741.tif,../data/segmentacao/masks/negativa/126741.tif
+135178,False,boa,True,sem banco,negativa,../data/segmentacao/images/135178.tif,../data/segmentacao/masks/negativa/135178.tif
+115651,False,boa,True,sem banco,negativa,../data/segmentacao/images/115651.tif,../data/segmentacao/masks/negativa/115651.tif
+139610,True,boa,True,banco evidente,positiva,../data/segmentacao/images/139610.tif,../data/segmentacao/masks/positiva/139610.tif
+35124,False,boa,True,sem banco,negativa,../data/segmentacao/images/35124.tif,../data/segmentacao/masks/negativa/35124.tif
+33787,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/33787.tif,../data/segmentacao/masks/positiva/33787.tif
+28454,False,boa,True,sem banco,negativa,../data/segmentacao/images/28454.tif,../data/segmentacao/masks/negativa/28454.tif
+106760,False,boa,True,sem banco,negativa,../data/segmentacao/images/106760.tif,../data/segmentacao/masks/negativa/106760.tif
+47130,False,boa,True,sem banco,negativa,../data/segmentacao/images/47130.tif,../data/segmentacao/masks/negativa/47130.tif
+2186,False,boa,True,sem banco,negativa,../data/segmentacao/images/2186.tif,../data/segmentacao/masks/negativa/2186.tif
+113882,True,boa,True,banco evidente,positiva,../data/segmentacao/images/113882.tif,../data/segmentacao/masks/positiva/113882.tif
+142292,False,boa,True,sem banco,negativa,../data/segmentacao/images/142292.tif,../data/segmentacao/masks/negativa/142292.tif
+101417,False,boa,True,sem banco,negativa,../data/segmentacao/images/101417.tif,../data/segmentacao/masks/negativa/101417.tif
+1739,True,boa,True,banco evidente,positiva,../data/segmentacao/images/1739.tif,../data/segmentacao/masks/positiva/1739.tif
+2182,False,boa,True,sem banco,negativa,../data/segmentacao/images/2182.tif,../data/segmentacao/masks/negativa/2182.tif
+2633,False,boa,True,sem banco,negativa,../data/segmentacao/images/2633.tif,../data/segmentacao/masks/negativa/2633.tif
+7999,False,boa,True,sem banco,negativa,../data/segmentacao/images/7999.tif,../data/segmentacao/masks/negativa/7999.tif
+125880,False,boa,True,sem banco,negativa,../data/segmentacao/images/125880.tif,../data/segmentacao/masks/negativa/125880.tif
+66247,False,boa,True,sem banco,negativa,../data/segmentacao/images/66247.tif,../data/segmentacao/masks/negativa/66247.tif
+4841,False,boa,True,sem banco,negativa,../data/segmentacao/images/4841.tif,../data/segmentacao/masks/negativa/4841.tif
+74252,False,boa,True,sem banco,negativa,../data/segmentacao/images/74252.tif,../data/segmentacao/masks/negativa/74252.tif
+2631,False,boa,True,sem banco,negativa,../data/segmentacao/images/2631.tif,../data/segmentacao/masks/negativa/2631.tif
+92957,False,boa,True,sem banco,negativa,../data/segmentacao/images/92957.tif,../data/segmentacao/masks/negativa/92957.tif
+57806,False,boa,True,sem banco,negativa,../data/segmentacao/images/57806.tif,../data/segmentacao/masks/negativa/57806.tif
+58702,False,boa,True,sem banco,negativa,../data/segmentacao/images/58702.tif,../data/segmentacao/masks/negativa/58702.tif
+32902,True,boa,True,corrigido para possui banco,positiva,../data/segmentacao/images/32902.tif,../data/segmentacao/masks/positiva/32902.tif
+2173,False,boa,True,sem banco,negativa,../data/segmentacao/images/2173.tif,../data/segmentacao/masks/negativa/2173.tif
+45798,False,boa,True,sem banco,negativa,../data/segmentacao/images/45798.tif,../data/segmentacao/masks/negativa/45798.tif
+14262,False,boa,True,sem banco,negativa,../data/segmentacao/images/14262.tif,../data/segmentacao/masks/negativa/14262.tif
+12470,True,boa,True,banco evidente,positiva,../data/segmentacao/images/12470.tif,../data/segmentacao/masks/positiva/12470.tif
+3079,False,boa,True,sem banco,negativa,../data/segmentacao/images/3079.tif,../data/segmentacao/masks/negativa/3079.tif
+33778,False,boa,True,sem banco,negativa,../data/segmentacao/images/33778.tif,../data/segmentacao/masks/negativa/33778.tif
+111210,False,boa,True,sem banco,negativa,../data/segmentacao/images/111210.tif,../data/segmentacao/masks/negativa/111210.tif

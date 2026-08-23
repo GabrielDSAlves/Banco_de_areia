@@ -1,4 +1,4 @@
-id,possui_banco,qualidade,usar_dataset,observacao
+﻿id,possui_banco,qualidade,usar_dataset,observacao
 1725,True,boa,True,corrigido para possui banco
 1726,False,boa,True,sem banco
 1727,False,boa,True,sem banco
